@@ -1,0 +1,591 @@
+{
+  "params": {
+    "metadata": {
+      "title": "Myši Natálie Mooshabrové",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Ladislav Fuks",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2020-01-31T00:00:00.000Z"
+    },
+    "elements": {
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "subtitle": "",
+      "h2": "MLP-uroven3-nadpis, MLP_uroven3_nadpis",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brAfter": "",
+      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
+      "figure": "MLP_obrazky\nMLP-obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "mysi_natalie_mooshabrove_001.md",
+            "xhtml": "mysi_natalie_mooshabrove_001.xhtml",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mysi_natalie_mooshabrove_002.md",
+            "xhtml": "mysi_natalie_mooshabrove_002.xhtml",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mysi_natalie_mooshabrove_003.md",
+            "xhtml": "mysi_natalie_mooshabrove_003.xhtml",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mysi_natalie_mooshabrove_004.md",
+            "xhtml": "mysi_natalie_mooshabrove_004.xhtml",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mysi_natalie_mooshabrove_005.md",
+            "xhtml": "mysi_natalie_mooshabrove_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mysi_natalie_mooshabrove_006.md",
+            "xhtml": "mysi_natalie_mooshabrove_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mysi_natalie_mooshabrove_007.md",
+            "xhtml": "mysi_natalie_mooshabrove_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mysi_natalie_mooshabrove_008.md",
+            "xhtml": "mysi_natalie_mooshabrove_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mysi_natalie_mooshabrove_009.md",
+            "xhtml": "mysi_natalie_mooshabrove_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mysi_natalie_mooshabrove_010.md",
+            "xhtml": "mysi_natalie_mooshabrove_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mysi_natalie_mooshabrove_011.md",
+            "xhtml": "mysi_natalie_mooshabrove_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mysi_natalie_mooshabrove_012.md",
+            "xhtml": "mysi_natalie_mooshabrove_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mysi_natalie_mooshabrove_013.md",
+            "xhtml": "mysi_natalie_mooshabrove_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mysi_natalie_mooshabrove_014.md",
+            "xhtml": "mysi_natalie_mooshabrove_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mysi_natalie_mooshabrove_015.md",
+            "xhtml": "mysi_natalie_mooshabrove_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mysi_natalie_mooshabrove_016.md",
+            "xhtml": "mysi_natalie_mooshabrove_016.xhtml",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mysi_natalie_mooshabrove_017.md",
+            "xhtml": "mysi_natalie_mooshabrove_017.xhtml",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mysi_natalie_mooshabrove_018.md",
+            "xhtml": "mysi_natalie_mooshabrove_018.xhtml",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mysi_natalie_mooshabrove_019.md",
+            "xhtml": "mysi_natalie_mooshabrove_019.xhtml",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mysi_natalie_mooshabrove_020.md",
+            "xhtml": "mysi_natalie_mooshabrove_020.xhtml",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mysi_natalie_mooshabrove_021.md",
+            "xhtml": "mysi_natalie_mooshabrove_021.xhtml",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mysi_natalie_mooshabrove_022.md",
+            "xhtml": "mysi_natalie_mooshabrove_022.xhtml",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mysi_natalie_mooshabrove_023.md",
+            "xhtml": "mysi_natalie_mooshabrove_023.xhtml",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mysi_natalie_mooshabrove_024.md",
+            "xhtml": "mysi_natalie_mooshabrove_024.xhtml",
+            "id": 23,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mysi_natalie_mooshabrove_025.md",
+            "xhtml": "mysi_natalie_mooshabrove_025.xhtml",
+            "id": 24,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mysi_natalie_mooshabrove_026.md",
+            "xhtml": "mysi_natalie_mooshabrove_026.xhtml",
+            "id": 25,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mysi_natalie_mooshabrove_027.md",
+            "xhtml": "mysi_natalie_mooshabrove_027.xhtml",
+            "id": 26,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "mysi_natalie_mooshabrove_028.md",
+            "xhtml": "mysi_natalie_mooshabrove_028.xhtml",
+            "id": 27,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          }
+        ]
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Myši Natálie Mooshabrové",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Ladislav Fuks",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2020-01-31T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mysi_natalie_mooshabrove_001.md",
+        "xhtml": "mysi_natalie_mooshabrove_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mysi_natalie_mooshabrove_002.md",
+        "xhtml": "mysi_natalie_mooshabrove_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mysi_natalie_mooshabrove_003.md",
+        "xhtml": "mysi_natalie_mooshabrove_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mysi_natalie_mooshabrove_004.md",
+        "xhtml": "mysi_natalie_mooshabrove_004.xhtml"
+      },
+      {
+        "titleSuggest": "Několik poznámek autora k Myším Natálie Mooshabrové a k literatuře a umění vůbec",
+        "subtitleSuggest": "",
+        "filename": "mysi_natalie_mooshabrove_005.md",
+        "xhtml": "mysi_natalie_mooshabrove_005.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mysi_natalie_mooshabrove_006.md",
+        "xhtml": "mysi_natalie_mooshabrove_006.xhtml"
+      },
+      {
+        "titleSuggest": "I",
+        "subtitleSuggest": "",
+        "filename": "mysi_natalie_mooshabrove_007.md",
+        "xhtml": "mysi_natalie_mooshabrove_007.xhtml"
+      },
+      {
+        "titleSuggest": "II",
+        "subtitleSuggest": "",
+        "filename": "mysi_natalie_mooshabrove_008.md",
+        "xhtml": "mysi_natalie_mooshabrove_008.xhtml"
+      },
+      {
+        "titleSuggest": "III",
+        "subtitleSuggest": "",
+        "filename": "mysi_natalie_mooshabrove_009.md",
+        "xhtml": "mysi_natalie_mooshabrove_009.xhtml"
+      },
+      {
+        "titleSuggest": "IV",
+        "subtitleSuggest": "",
+        "filename": "mysi_natalie_mooshabrove_010.md",
+        "xhtml": "mysi_natalie_mooshabrove_010.xhtml"
+      },
+      {
+        "titleSuggest": "V",
+        "subtitleSuggest": "",
+        "filename": "mysi_natalie_mooshabrove_011.md",
+        "xhtml": "mysi_natalie_mooshabrove_011.xhtml"
+      },
+      {
+        "titleSuggest": "VI",
+        "subtitleSuggest": "",
+        "filename": "mysi_natalie_mooshabrove_012.md",
+        "xhtml": "mysi_natalie_mooshabrove_012.xhtml"
+      },
+      {
+        "titleSuggest": "VII",
+        "subtitleSuggest": "",
+        "filename": "mysi_natalie_mooshabrove_013.md",
+        "xhtml": "mysi_natalie_mooshabrove_013.xhtml"
+      },
+      {
+        "titleSuggest": "VIII",
+        "subtitleSuggest": "",
+        "filename": "mysi_natalie_mooshabrove_014.md",
+        "xhtml": "mysi_natalie_mooshabrove_014.xhtml"
+      },
+      {
+        "titleSuggest": "IX",
+        "subtitleSuggest": "",
+        "filename": "mysi_natalie_mooshabrove_015.md",
+        "xhtml": "mysi_natalie_mooshabrove_015.xhtml"
+      },
+      {
+        "titleSuggest": "X",
+        "subtitleSuggest": "",
+        "filename": "mysi_natalie_mooshabrove_016.md",
+        "xhtml": "mysi_natalie_mooshabrove_016.xhtml"
+      },
+      {
+        "titleSuggest": "XI",
+        "subtitleSuggest": "",
+        "filename": "mysi_natalie_mooshabrove_017.md",
+        "xhtml": "mysi_natalie_mooshabrove_017.xhtml"
+      },
+      {
+        "titleSuggest": "XII",
+        "subtitleSuggest": "",
+        "filename": "mysi_natalie_mooshabrove_018.md",
+        "xhtml": "mysi_natalie_mooshabrove_018.xhtml"
+      },
+      {
+        "titleSuggest": "XIII",
+        "subtitleSuggest": "",
+        "filename": "mysi_natalie_mooshabrove_019.md",
+        "xhtml": "mysi_natalie_mooshabrove_019.xhtml"
+      },
+      {
+        "titleSuggest": "XIV",
+        "subtitleSuggest": "",
+        "filename": "mysi_natalie_mooshabrove_020.md",
+        "xhtml": "mysi_natalie_mooshabrove_020.xhtml"
+      },
+      {
+        "titleSuggest": "XV",
+        "subtitleSuggest": "",
+        "filename": "mysi_natalie_mooshabrove_021.md",
+        "xhtml": "mysi_natalie_mooshabrove_021.xhtml"
+      },
+      {
+        "titleSuggest": "XVI",
+        "subtitleSuggest": "",
+        "filename": "mysi_natalie_mooshabrove_022.md",
+        "xhtml": "mysi_natalie_mooshabrove_022.xhtml"
+      },
+      {
+        "titleSuggest": "XVII",
+        "subtitleSuggest": "",
+        "filename": "mysi_natalie_mooshabrove_023.md",
+        "xhtml": "mysi_natalie_mooshabrove_023.xhtml"
+      },
+      {
+        "titleSuggest": "XVIII",
+        "subtitleSuggest": "",
+        "filename": "mysi_natalie_mooshabrove_024.md",
+        "xhtml": "mysi_natalie_mooshabrove_024.xhtml"
+      },
+      {
+        "titleSuggest": "XIX",
+        "subtitleSuggest": "",
+        "filename": "mysi_natalie_mooshabrove_025.md",
+        "xhtml": "mysi_natalie_mooshabrove_025.xhtml"
+      },
+      {
+        "titleSuggest": "XX",
+        "subtitleSuggest": "",
+        "filename": "mysi_natalie_mooshabrove_026.md",
+        "xhtml": "mysi_natalie_mooshabrove_026.xhtml"
+      },
+      {
+        "titleSuggest": "XXI",
+        "subtitleSuggest": "",
+        "filename": "mysi_natalie_mooshabrove_027.md",
+        "xhtml": "mysi_natalie_mooshabrove_027.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "mysi_natalie_mooshabrove_028.md",
+        "xhtml": "mysi_natalie_mooshabrove_028.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/mysi_natal_idstyles.css"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image001_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image002_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/obalka_mysi_natalie_moo_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/upoutavka_eknihy_fmt.png"
+      }
+    ],
+    "classes": [
+      "Hyperlink",
+      "MLP-citacni-str-rozdeleni",
+      "MLP-dopis",
+      "MLP-dopis-podpis--I",
+      "MLP-licence-hypertext",
+      "MLP-licence-obrazek",
+      "MLP-licence-paragraf",
+      "MLP-licence-text",
+      "MLP-obrazky",
+      "MLP-text",
+      "MLP-text--0-12",
+      "MLP-text--12-0",
+      "MLP-text--12-12",
+      "MLP-text--I",
+      "MLP-text-bez1radku",
+      "MLP-text-bez1radku--0-12",
+      "MLP-text-bez1radku--12-0",
+      "MLP-text-bez1radku--I",
+      "MLP-text-uprostred",
+      "MLP-tiraz-autor-a-nazev",
+      "MLP-titulka-autor",
+      "MLP-titulka-nazev",
+      "MLP-uroven2-kapitola",
+      "MLP-venovani",
+      "MLP-verse--I---0-12",
+      "MLP-verse--I---12-12",
+      "char-style-override-1",
+      "frame-1",
+      "frame-2",
+      "frame-3",
+      "para-style-override-1",
+      "para-style-override-2",
+      "para-style-override-3"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "fuks-mysi-natalie-mooshabrove"
+    },
+    "generatedAt": 1652420499478
+  }
+}
