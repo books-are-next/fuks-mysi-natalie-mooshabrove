@@ -3,8 +3,6 @@ title: X
 contentType: prose
 ---
 
-  
-
 Hodiny u kamen právě tloukly jednu, když někdo klepal. Nebylo to vlastně klepání, nýbrž jen bouchnutí klouby do dveří v průjezdu, a pak hned byl slyšet klíč a odmykání zámku.
 
 „Nabule,“ vzdychla paní Mooshabrová a položila na otoman pasti, „Nabule. Panebože,“ zhrozila se, „Wezr.“

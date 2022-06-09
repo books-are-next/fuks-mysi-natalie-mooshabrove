@@ -3,8 +3,6 @@ title: III
 contentType: prose
 ---
 
-  
-
 Když v osm hodin večer odjel ze dvora pohřební vůz, inspektor otevřel dvířka policejního auta, které na dvoře zatím pořád ještě stálo, a řekl panu Faberovi:
 
 „Pane Faber, pojďte. Musíte nám na stanici nadiktovat protokol, je to formalita, za chvilku jste zpět. Ten džbán od piva, Dane,“ ohlédl se k mladíkovi v uniformě, který stál u auta a držel džbán, „ten klidně dej paní. Vemte si ho, paní, už ho nepotřebujeme.“

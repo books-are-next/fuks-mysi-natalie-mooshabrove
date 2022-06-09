@@ -3,8 +3,6 @@ title: XVII
 contentType: prose
 ---
 
-  
-
 Co dělala ten den večer doma paní Mooshabrová, nikdo neví, protože ten den, po příchodu ze hřbitova, nikdo u ní nebyl. Nebyla u ní ani správcová Kralcová. Ale co se dělo v nitru paní Mooshabrové, neví nikdo tím spíš a nikdo se to nikdy nedozví. Možná že paní Mooshabrová celý večer nehybně seděla v kuchyni na kanapi, hleděla před sebe a tato vnější nehybnost byla výrazem jejího nitra. Možná že ani nezatopila v kamnech, nevařila ani čaj, neslyšela ani hodiny. Možná že celý večer jen nehybně seděla na kanapi a hleděla před sebe jako starý, zvadlý, slepý strom. Snad nakonec šla spát, ale zda spala, či bděla, také nikdo neví, a neví ani to, zda se paní Mooshabrové zdál nějaký sen.
 
 A nikdo neví, co paní Mooshabrová dělala druhý den, od rána do večera nevyšla z bytu. Nepotkala ji tedy ani správcová, ani zedníci, kteří pomalu ve starém bídném domě končili práci a sundávali lešení, nepotkal ji z domu nikdo. Paní Mooshabrová nevyšla z bytu a nikdo u ní snad ani neklepal. Teprve třetí den odpoledne paní Natálie Mooshabrová ve svých starých šatech, dlouhé černé sukni, černém šátku a starém kabátě, ve střevících bez kramfleků vyšla ven s menší černou taškou.
@@ -151,10 +149,14 @@ _Zní hlas trouby divně duně,
 volá spáče v hrobu lůně,  
 Pán kde sedí na svém trůně._
 
+  
+
 _.....  
 Přinesena psaná kniha,  
 je v ní všecka hříchů tíha,  
 z ní pak Soudce viny stíhá._
+
+  
 
 A ještě vám, paní, řeknu jeden verš,“ lékárník zamžikal skrz brejličky na mladíka s vousy, který stál a čekal… „poslední:
 
