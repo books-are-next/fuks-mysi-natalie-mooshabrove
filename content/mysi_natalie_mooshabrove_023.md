@@ -141,9 +141,13 @@ Vtom se otevřely dveře a do lékárny vstoupil zákazník. Nějaký mládenec
 
 „Hospoda,“ pískl lékárník a mrkl na mladíka, „hospoda! Kočár je však i souhvězdí, paní. A taky je to povoz o čtyřech kolech, který táhne koňstvo. To se, paní, nazývá mnohovýznamnost slov. Vy, paní, na pánaboha nevěříte, takže asi ani nevěříte na poslední soud a zmrtvýchvstání. Toho se Rekviem právě týká.“ A lékárník pohlédl do not a začal recitovat:
 
+  
+
 _„Strašné chvění, bázeň hrozná,  
 až se tvorstvo Soudci přizná,  
 jenž hned řeší vše a pozná._
+
+  
 
 _Zní hlas trouby divně duně,  
 volá spáče v hrobu lůně,  
@@ -160,9 +164,13 @@ z ní pak Soudce viny stíhá._
 
 A ještě vám, paní, řeknu jeden verš,“ lékárník zamžikal skrz brejličky na mladíka s vousy, který stál a čekal… „poslední:
 
+  
+
 _Soudce zasedat až bude,  
 zjeví se, co skryto všude.  
 Bez pomsty zda něco zbude?_
+
+  
 
 Tak tedy, paní, to je Rekviem. Rekviem,“ lékárník mrkl na nedaleké váhy, „tak tedy tady máte ten Rattenal. Dva šestáky pětník.“
 
