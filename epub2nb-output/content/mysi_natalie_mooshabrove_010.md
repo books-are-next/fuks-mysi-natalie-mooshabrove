@@ -122,7 +122,11 @@ Paní Eichenkranzová se zastavila před hrobkou a pohlédla na nápis. Stálo 
 RODINA ŠKOLNÍHO RADY  
 BARONA DE SCHUBAUERA
 
+  
+
 A pod tím stálo:
+
+  
 
 Školní rada  
 Joachim baron de Schubauer,  
@@ -172,7 +176,11 @@ Paní Eichenkranzová se zastavila a četla zlaté písmo na pomníku:
 
 VINCENZA CANCEROVÁ
 
+  
+
 „Byl stavitel, byla šťastná,“ zatřásla paní Mooshabrová taškou a paní Eichenkranzová četla druhé jméno pod prvním:
+
+  
 
 STAVITEL VINCENZ CANCER
 
@@ -288,7 +296,11 @@ VDOVA KLOTILDA EICHENKRANZOVÁ
 
 hřbitovní potřeby
 
+  
+
 Vedle byl plech s barevným obrázkem láhve a na něm nápis:
+
+  
 
 PIVO, LIMONÁDY!
 

@@ -193,20 +193,28 @@ Paní Mooshabrová v tvářích červených a bílých, s nabarveným obočí
 
 A pak pomalu za vojenských pochodů a zvonů přednášela:
 
+  
+
 _Stařenka slepá z kostela kráčí,  
 cestu si berličkou hledá a značí.  
 Berličkou hmatat není tak snadné,  
 stařenka slepá často upadne._
 
+  
+
 Pak řekla:
 
 „Když byli Wezr a Nabule malí, zpívala jsem jim ukolíbavku.“ A poprvé se napila z láhve označené Limo a pomalu, za vojenských pochodů a zvonů zpívala:
+
+  
 
 _Dobrý večer, dobrou noc,  
 v andělskou moc…  
 …  
 Zítra ráno,  
 až se probudíš._
+
+  
 
 A pak se ozvalo zvonění.
 
