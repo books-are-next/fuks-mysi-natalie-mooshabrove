@@ -3,5 +3,5 @@ title: ''
 contentType: prose
 ---
 
-Když je dům hotov,  
-pán umírá
+_Když je dům hotov,  
+pán umírá_

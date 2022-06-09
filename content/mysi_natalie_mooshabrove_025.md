@@ -3,8 +3,6 @@ title: XIX
 contentType: prose
 ---
 
-  
-
 Třicátého října odpoledne klepla správcová na dveře paní Moos­habrové a paní Mooshabrová u kamen slyšela její hlas a věděla, že je to ona. Venku bylo chladno, vlhko, správcová byla zas jen v krátké bavlněné sukni a s nahým krkem – ovšem byla v domě pod střechou. Vešla do kuchyně paní Mooshabrové, nadechla a usedla na otoman. „Jak vám to tu voní,“ nadechla a usedla, „a jak je tu příjemně teplo.“ A pohlédla k plotně, na kredenc, na stůl, a aniž se zasmála, řekla:
 
 „A co tu všude máte, paní Mooshabrová, věcí. Mandle, hrozinky, tvaroh. Vanilku, máslo, vejce. Mouku, mléko, měchačku. Úplně jak v pekařství, když se chystají na buchtu.“

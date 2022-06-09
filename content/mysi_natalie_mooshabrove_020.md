@@ -3,8 +3,6 @@ title: XIV
 contentType: prose
 ---
 
-  
-
 Už nebylo krásné zářijové odpoledne.
 
 Listí na stromech usychalo, žloutlo a sem tam i padalo, nejen v té tiché boční ulici před Útulkem svatého Josefa, usychalo, žloutlo a sem tam i padalo už i v parku, ba i na hřbitově. Květiny v parcích i všude tam, kde to přicházelo v úvahu, už také nekvetly, ale dokvétaly nebo byly odkvetlé. A konečně ani samo slunce zdaleka tak nesvítilo a nehřálo, lidé u pouličních kiosků ze skla a laminátu méně jedli mražené krémy, pili snad jen limonády, a už ani nechodili bez kabátů nebo jen tak v pláštích, ale v kabátech. Už byl říjen.

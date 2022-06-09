@@ -3,8 +3,6 @@ title: II
 contentType: prose
 ---
 
-  
-
 Běžela krásným zářijovým odpolednem mnoha ulicemi, na státních domech visely prapory, neboť byl svátek předsedy Albína Rappelsch­lunda, pak doběhla na jeho náměstí. Stála tam socha, ověšená kytkami a různými cáry, ale lidé, kteří tu šli, na ni ani nekoukli, každý radši hleděl na holuby, kteří se hemžili na zemi. Na hlavní třídě musila projít shlukem lidí před redakcí Rozkvětu. Shluk lidí před Rozkvětem býval vždycky, lidé tu rokovali o sportu a různých transplantacích, také o různých chaluhách, řasách a nebi, a také si tu měnívali známky. Dnes se tu bavili i o tom, že na státních domech jsou prapory, socha na náměstí opentlená, ale okna bytů jsou pustá a prázdná… vskutku, okna bytů byla pustá, prázdná, za žádným nebyla jediná květina, svíčka, sklenka s vínem, koláček, což za okny bývá na svátek kněžny vdovy panovnice, a jistě nikdo v žádném bytě nepálil ani kadidlo… paní Mooshabrová prošla tím shlukem před Rozkvětem. Pak minula pouliční kiosky ze skla a laminátu, u nichž jedli lidé různé mražené krémy, šunku, saláty a pili limonády, ty minula s hlavou svěšenou a velmi rychle, byla ráda, když přeběhla po bílých pruzích asfaltovou křižovatku u obchodního domu Slunečnice. Pak proběhla třemi ubohými ulicemi a pak už byla blízko domu, v němž bydlila.
 
 Byl to vskutku starý zchátralý dvoupatrový dům s velkým ote­vřeným průjezdem. V průjezdě stála halda zednického náčiní, cihly, trakař, sud vápna. Před průjezdem stála ženská, padesátnice v krátké letní sukni, a u ní žena s otrhaným chlapcem, kterému mohlo být dvanáct. Měl oteklé oko a nešťastně se rozhlížel ulicí.

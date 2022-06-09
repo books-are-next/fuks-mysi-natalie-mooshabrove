@@ -3,8 +3,6 @@ title: XV
 contentType: prose
 ---
 
-  
-
 Paní Mooshabrová došla ke svému starému zchátralému domu jako v mlze. Avšak i když paní Mooshabrová došla k domu jako v mlze, byla ta mlha spíš jen kolem ní a v její rozvířené hlavě než ve smyslech. Například v očích měla paní Mooshabrová ještě plno světla z křišťálových lustrů a také plno toho červeného světla z lamp soch zpod schodiště z haly… a plno toho zářivého i červeného světla v očích měla, ještě když vešla do bídného průjezdu a obcházela cihly, trakař a sud vápna. Když vešla do kuchyně a rozsvítila, hodiny u kamen právě odbily půl sedmou. Paní Mooshabrová si odšpendlila klobouk, svlékla rukavice, kožich, korále, vyjmula z uší ringle a převlékla se ze sváteční jupky a sukně do svých starých šatů… stále měla v očích plno toho zářivého i červeného světla z vily. Napustila vodu do umyvadla, smyla si čerň, červeň i pudr a pak dala klobouk a své sváteční věci do skříně a šperky a rukavice do stolku v pokoji. Jen pruhovaný kožich s hřívou dala v pokoji na postel, aby jej mohla vrátit správcové, až se večer objeví.
 
 „Ta bude koukat, až přijde,“ řekla si v pokoji, „pět grošů, snad jsem se přeslechla. A až jí povím, co je uvnitř, toho světla z lustrů a z červených lamp…“ Vrátila se do kuchyně a šla nahlédnout do plotny, zda v ní ještě hoří, hned sáhla do truhlíku a přiložila. Ale sotva přiložila, slyšela, jak někdo v průjezdu otvírá dveře, a než se nadála, ve dveřích kuchyně stanul Wezr, Nabule a cizí člověk černý pes…

@@ -3,8 +3,6 @@ title: IX
 contentType: prose
 ---
 
-  
-
 Když minuly hlavní hřbitovní bránu a octly se na náměstí Annymarie Blažené, hodiny ukazovaly půl třetí. Slunce na západním nebi se odráželo od skleněné střechy nádraží Centrální hřbitov, které stálo na konci náměstí. Byla to obrovská vysoká budova, uzlová stanice podzemní dráhy a zároveň i dopravy uliční, autobusů a trolejbusů. Paní Mooshabrová v dlouhé černé sukni, jupce, šátku a střevících bez kramfleků se na kraji náměstí zastavila, pohlédla na tu obrovskou vysokou budovu nádraží a potřásla velkou černou taškou, jako by se chtěla posilnit, ale ve skutečnosti se zastavila, pohlédla na budovu nádraží a potřásla taškou proto, aby mohla správcové ukázat na vzdálené moderní domy.
 
 „Tam,“ ukázala, „bývala hospoda, kde jsem měla svatbu. Hospoda U Zlatýho kočáru, a už tam z ní není ani cihla. Teď jsou tam místo ní ty činžáky. No a tuhle máte nádraží Centrální hřbitov a za ním je radnice, kde nás oddali. A támhle u těch kiosků,“ paní Mooshabrová ukázala na kiosky ze skla a laminátu, které byly poblíž vzdálených moderních domů, „tam právě teď není živá duše.“

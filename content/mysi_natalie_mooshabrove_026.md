@@ -3,8 +3,6 @@ title: XX
 contentType: prose
 ---
 
-  
-
 A minul večer, minula noc a přišlo ráno. Ráno posledního dne měsíce října, dva dni před svátkem Dušiček, den státního svátku, narozenin kněžny vdovy panovnice Augusty.
 
 Co dělala paní Mooshabrová dopoledne, se neví. Asi něco vařila k obědu, snad trochu kukuřičné kaše. Asi též prohlédla pasti v kuchyni za kanapem, kredencem, kamny, také pasti v chodbě, spíži a pokoji, ač tohle každé dopoledne nedělala. Asi vynesla myšky do popelnice, která stála pod domovním schodištěm poblíž za jejím kuchyňským oknem z mléčného skla, jestliže se ovšem nějaké myšky za noc chytly, a pak dala do pasti nové kousky špeku, ač ani tohle každé dopoledne nedělala pravidelně a bez výhrad, možná že z toho všeho dnes nedělala vůbec nic. Jisté je snad jen to, že paní Natálie Mooshabrová někdy po obědě dobře uklidila byt, kuchyň, pokoj, chodbu a že se začala chystat. Chystat na svůj nástup u Oberona Felsacha, syna velkokupce, chystat na svůj nástup a večeři ve Felsachově vile.

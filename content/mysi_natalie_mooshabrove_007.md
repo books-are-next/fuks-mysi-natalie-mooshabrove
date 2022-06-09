@@ -3,8 +3,6 @@ title: I
 contentType: prose
 ---
 
-  
-
 Lokál U Víl byl na odpoledne pronajat. Okno do dvora bylo dokořán – na dvoře stál kůň v chomoutě a s pytlem ovsa. V lokále seděli svatebčané.
 
 Seděli u bíle prostřeného stolu s květinami, svíčkami, sklenkami a mísou koláčů. V čele pod portrétem kněžny vdovy panovnice Augusty a předsedy Albína Rappelschlunda seděl člověk s velkýma upracovanýma rukama, v černých šatech a bílé režné košili, nemotorně se točil, přikyvoval, přisvědčoval, usmíval se, též oknem na koně, to byl ženich. Pak tam seděla menší tlustší blondýna s přihlouplou otlemenou tváří, před ní na stole ležel vavřínový věnec, a ta se kroutila, natřásala, vypínala a všelijak zdvíhala oči, to byla nevěsta. Vedle svatebčanů seděla ještě Rona, kamarádka blondýny, dvacetiletá rozřehtaná holka, a dva svědci, divní, temní lidé.
@@ -88,8 +86,6 @@ Všichni se smáli, křičeli, vřískali, jen ženich seděl, kýval, usmíval 
 
 _Zítra ráno  
 se zas probudíš…_
-
-  
 
 a byla tak zaujata zpěvem, aby zněl co nejlíp, že si ani nevšimla, že Nabule už všechny obsloužila talíři se šunkou a salátem, ale před ni na stůl nedala ani střep. Lothar Baar a Rolsberg si toho však okamžitě všimli a užasle pohlédli na blondýnu. Ale ta jen vyprskla smíchy a pak náhle zničehonic vpadla do matčina zpěvu.
 
