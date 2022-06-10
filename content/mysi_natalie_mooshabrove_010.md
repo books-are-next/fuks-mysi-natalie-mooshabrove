@@ -3,6 +3,8 @@ title: IV
 contentType: prose
 ---
 
+<section>
+
 Vpravo vedle hrobu položili rakev a za ni na haldu hlíny kytku. Pan Faber zíral do jámy u svých nohou, paní Faberová, vzpřímená a chladná, hleděla kamsi vpřed, v nekonečno pomníků. Vedle Faberů stál jakýsi kostelní sluha a za ním pár lidí, také Steinhägerovi, správcová Kralcová a paní Mooshabrová s velkou černou taškou. Čestné místo mezi lidmi měla vyšší štíhlá žena s jemnou upjatou tváří a s nějakými notami v ruce. Byla to paní Knorringová z Péče o matku a dítě.
 
 Ale lidé nestáli jen za Faberovými a ubohým kostelním sluhou. Na té pravé straně hrobu, kde byla rakev a za ní halda hlíny s kytkou, byla malá ulička a tam stáli tři lidé. Stál tam jakýsi starý v tvrďáku s rozepnutým fráčkem, pod nímž měl vestu a na ní mu visel zlatý řetěz s hodinkami. Vedle něho stála starší buclatá žena v modrém letním čepci, zpod něhož koukaly bujné černé lokny, majitelka krámku na rozhraní hřbitova a parku jménem Eichenkranzová. Vedle ní se vrtěl nějaký hoch v modro-bílém pruhovaném tričku. Paní Eichenkranzová občas vrhla pohled na paní Knorringovou z Péče a přitom co chvíli tahala chlapce za loket.
@@ -117,22 +119,30 @@ Došly k velké mramorové hrobce se sochou anděla, lucernou na světlo věčn
 
 Paní Eichenkranzová se zastavila před hrobkou a pohlédla na nápis. Stálo tam velkým zlatým písmem:
 
-  
+</section>
+
+<section>
 
 RODINA ŠKOLNÍHO RADY  
 BARONA DE SCHUBAUERA
 
-  
+</section>
+
+<section>
 
 A pod tím stálo:
 
-  
+</section>
+
+<section>
 
 Školní rada  
 Joachim baron de Schubauer,  
 nar. 1854, zemř. 1914.
 
-  
+</section>
+
+<section>
 
 A pod ním řada jmen a číslic. Mathurin, Anna, Leopold, Rozalie.
 
@@ -172,19 +182,27 @@ Opustily hrobku barona de Schubauera a pomalu šly cestou k páté kapli. Odd�
 
 Paní Eichenkranzová se zastavila a četla zlaté písmo na pomníku:
 
-  
+</section>
+
+<section>
 
 VINCENZA CANCEROVÁ
 
-  
+</section>
+
+<section>
 
 „Byl stavitel, byla šťastná,“ zatřásla paní Mooshabrová taškou a paní Eichenkranzová četla druhé jméno pod prvním:
 
-  
+</section>
+
+<section>
 
 STAVITEL VINCENZ CANCER
 
-  
+</section>
+
+<section>
 
 „Tak a teď vám ukážu opak,“ řekla paní Mooshabrová a šla dál, „zahnem tuhle na tu cestu.“ Zahnuly na dost malou cestu a chvíli šly mlčky. Pak prošly mezi několika hroby po trávě. Pak se paní Mooshabrová zastavila a ukázala na špičatý pomníček pod zelenou břízkou.
 
@@ -192,11 +210,15 @@ STAVITEL VINCENZ CANCER
 
 Paní Eichenkranzová přistoupila k hrobu a četla:
 
-  
+</section>
+
+<section>
 
 TEREZIE BEKENMOSCHTOVÁ
 
-  
+</section>
+
+<section>
 
 „A kdo to byl, ta paní Bekenmoschtová?“ zeptala se.
 
@@ -290,21 +312,29 @@ Vyšly mřížovanou bránou ze hřbitova a octly se v parku.
 
 V parku na konci u hřbitovní zdi. Zpod vysokých stromů, obklo­pených hustými keři, sem vedlo několik cest. Zahnuly za roh zdi kolem velkého platanu a byly před krámkem a obydlím paní Eichen­kranzové. Nad širokým oknem, na němž byla roleta, visel nápis:
 
-  
+</section>
+
+<section>
 
 VDOVA KLOTILDA EICHENKRANZOVÁ
 
 hřbitovní potřeby
 
-  
+</section>
+
+<section>
 
 Vedle byl plech s barevným obrázkem láhve a na něm nápis:
 
-  
+</section>
+
+<section>
 
 PIVO, LIMONÁDY!
 
-  
+</section>
+
+<section>
 
 Paní Eichenkranzová vyňala klíč a otevřela dveře vedle staženého okna.
 
@@ -445,3 +475,5 @@ Paní Mooshabrová se náhle trochu zarazila a nejistě pohlédla na paní Eich
 „Měla byste sem tam dát past,“ kývla paní Mooshabrová a vyšla před krámek, „aby se vám tu nerozmohly. Nerozmohly pod vlastní střechou, to je pak zkáza. Tak tedy pozítří odpoledne na Péči.“
 
 A paní Mooshabrová pozdravila a šla.
+
+</section>

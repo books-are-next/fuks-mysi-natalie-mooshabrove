@@ -3,6 +3,8 @@ title: III
 contentType: prose
 ---
 
+<section>
+
 Když v osm hodin večer odjel ze dvora pohřební vůz, inspektor otevřel dvířka policejního auta, které na dvoře zatím pořád ještě stálo, a řekl panu Faberovi:
 
 „Pane Faber, pojďte. Musíte nám na stanici nadiktovat protokol, je to formalita, za chvilku jste zpět. Ten džbán od piva, Dane,“ ohlédl se k mladíkovi v uniformě, který stál u auta a držel džbán, „ten klidně dej paní. Vemte si ho, paní, už ho nepotřebujeme.“
@@ -66,3 +68,5 @@ Asi deset kroků od domovních vrat hořela pouliční plynová lampa. Byla př�
 „Tak jsem se ráno chystala na svatbu,“ řekla si, „a večer jsem šla věšet černej prápor. Co se to vlastně všechno dneska stalo,“ řekla si, „co si o tom mám pomyslit? A to byl snad ke všemu ještě nějaký ten svátek…“
 
 Paní Mooshabrová pohlédla na kredenc a rozvířenou hlavou jí blesklo, že musí jít spát.
+
+</section>

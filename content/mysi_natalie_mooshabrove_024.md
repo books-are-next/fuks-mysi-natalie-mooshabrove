@@ -3,6 +3,8 @@ title: XVIII
 contentType: prose
 ---
 
+<section>
+
 Ten večer šla paní Mooshabrová do pokoje, do chodby a do spíže a snesla všechny nastražené pasti do kuchyně na otoman. V několika pastích byly mrtvé myšky s mastnými vousisky a zrnky bílého prášku na nosech. Paní Mooshabrová je zatím chtěla vysypat do popela v kamnech, pak jít znovu do spíže, přinést talíř se špekem, znovu pasti naplnit, a konečně si chtěla ještě jednou prohlédnout tu krabičku s černožlutým pruhem, červeným nápisem a lebkou se zkříženými hnáty. To všechno chtěla paní Mooshabrová teď večer udělat, když vtom někdo klepl do dveří z průjezdu. Paní Mooshabrová nechala pasti na kanapi, ale talíř špeku ze spíže tedy již nedonesla. S povzdechem šla otevřít.
 
 „Paní Natálie Mooshabrová,“ řekl jakýsi muž v kožeňáku a vyndal cosi z kapsy.
@@ -232,3 +234,5 @@ Hodiny u kamen tloukly, tloukly devět, ale nikdo si jich nevšímal. Ani polic
 „Ušetřila jste nám čas,“ kývl druhý policista, „tak vám děkujeme, tady je ta svíčka a to pečetidlo.“
 
 A oba policisté teď už doopravdy vstali ze židlí, dali na hlavu klobouky, které celou tu dobu ležely na stole, a řekli: „Tak se na nás nezlobte, že jsme vás vyrušili. To víte, dělali jsme jen svou povinnost. To harampádí z průjezdu by už mohlo zmizet, viďte, hlavně ten sud vápna.“
+
+</section>

@@ -3,6 +3,8 @@ title: XIV
 contentType: prose
 ---
 
+<section>
+
 Už nebylo krásné zářijové odpoledne.
 
 Listí na stromech usychalo, žloutlo a sem tam i padalo, nejen v té tiché boční ulici před Útulkem svatého Josefa, usychalo, žloutlo a sem tam i padalo už i v parku, ba i na hřbitově. Květiny v parcích i všude tam, kde to přicházelo v úvahu, už také nekvetly, ale dokvétaly nebo byly odkvetlé. A konečně ani samo slunce zdaleka tak nesvítilo a nehřálo, lidé u pouličních kiosků ze skla a laminátu méně jedli mražené krémy, pili snad jen limonády, a už ani nechodili bez kabátů nebo jen tak v pláštích, ale v kabátech. Už byl říjen.
@@ -107,7 +109,9 @@ Hodiny u kamen tloukly čtyři a paní Mooshabrová si navlékla bílé rukavi
 
 Černo-hnědě pruhovaná, v obrovské chlupaté hřívě a v klobouku s barevným pápěřím, které se chvělo a třáslo, a správcová za ní zírala a zírala, dokud nezašla za roh.
 
-  
+</section>
+
+<section>
 
 V klobouku s dlouhým barevným pápěřím, s tvářemi červenými a bílými, s obočím i se rty nabarvenými, v hnědo-černě pruhovaném kožichu s obrovskou chlupatou hřívou došla paní Mooshabrová zadem do ulice U Studánky šest ještě za světla. Ale ve vile v přízemí se už svítilo. Byla to vskutku vysoká jednopatrová vila s vchodem se dvěma sloupy, vchod byl vskutku velký jako u ministerstva a od něho zahradou k bráně do ulice vedl chodník. Paní Mooshabrová vzala za tu uliční bránu a brána povolila.
 
@@ -194,3 +198,5 @@ Paní Mooshabrové v křesle se zatajil dech a zatočila hlava. Na okamžik ne
 „Ten den rozhodně doma,“ kývl pan Felsach a pohlédl k bazénku, „ostatně to nebude ani tak těžké. Nebude to těžké, když se upoutá na okna. Máme zde dost oken a v mnohých bude oslava. Květiny, svíčky, koláče a sklenky vína, jak to na svátek naší kněžny thálské bývá, vykuřujeme i kadidlem, to vše má Oberon rád, snad se tím zabaví. Hospodyně připraví večeři, přijdou snad i studenti a tak to zároveň zde oslavíte. Váš nástup i státní svátek. Hospodyně a Oberon vás budou čekat v pět odpoledne jedenatřicátého října na státní svátek vdovy panovnice Augusty a hospodyně vám zároveň dá váš měsíční plat.“
 
 Pan Felsach pomohl paní Mooshabrové do hnědo-černě pru­hovaného kožichu s obrovskou chlupatou hřívou, pomohl jí poblíž mramorového bazénku, a paní Mooshabrová teď už jasně viděla, že stonek, z něhož stříká dvojí pramen vody, je nahoře rozšířen a rozštěpen a je asi z kovu, a také si všimla, že v bazénku pod šplouchající vodou plavou tři červené rybky. Rozhlédla se ještě jednou halou, pohlédla na široké dveře jídelny z mléčného skla, na obrazy ve zlatých rámech, na řadu tmavých leštěných dveří u schodiště, na sedací soupravy a také na křišťálové lustry a na dvě ženské sochy pod schodištěm třímající ty dvě lampy se zvláštním červeným světlem… a nakonec koukla i pod své střevíce bez kramfleků na vysoký měkký koberec. Potřásla hlavou a menší černou taškou v bílé rukavičce a rozloučila se s panem Felsachem. Dovedl ji k východu, otevřel a uklonil se. Jeho tmavé oči byly opět trochu rozšířené a jeho snědá tvář trochu udivená. Paní Mooshabrová vyšla ze sloupového východu na široký chodník a kráčela zahradou k uliční bráně. Pan Felsach za ní chvíli hleděl, na její pruhovaný kožich, velkou chlupatou hřívu a na chvějící se červené a zelené pápěří, a když prošla bránou a octla se na ulici, zavřel dveře a šel k bazénku do středu haly. Chvilku pozoroval rozštěpený stonek, z něhož stříkala voda, a tři červené rybky pod vodou šplíchající a jeho tvář byla už opět velmi klidná. Pak šel spokojeně ke stolku, u něhož seděli, aby sklidil sklenky, láhve a stříbrný tác.
+
+</section>

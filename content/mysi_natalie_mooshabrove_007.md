@@ -3,6 +3,8 @@ title: I
 contentType: prose
 ---
 
+<section>
+
 Lokál U Víl byl na odpoledne pronajat. Okno do dvora bylo dokořán – na dvoře stál kůň v chomoutě a s pytlem ovsa. V lokále seděli svatebčané.
 
 Seděli u bíle prostřeného stolu s květinami, svíčkami, sklenkami a mísou koláčů. V čele pod portrétem kněžny vdovy panovnice Augusty a předsedy Albína Rappelschlunda seděl člověk s velkýma upracovanýma rukama, v černých šatech a bílé režné košili, nemotorně se točil, přikyvoval, přisvědčoval, usmíval se, též oknem na koně, to byl ženich. Pak tam seděla menší tlustší blondýna s přihlouplou otlemenou tváří, před ní na stole ležel vavřínový věnec, a ta se kroutila, natřásala, vypínala a všelijak zdvíhala oči, to byla nevěsta. Vedle svatebčanů seděla ještě Rona, kamarádka blondýny, dvacetiletá rozřehtaná holka, a dva svědci, divní, temní lidé.
@@ -79,21 +81,29 @@ Paní Mooshabrová stiskla tašku, kterou měla na klíně, a nejistě, omluvn�
 
 „No neumím. To já jen tak zpívala, když byli malí. Ukolíbavku. Ale jestli chcete, já bych ji pro obveselení zazpívala. Vždyť je svatba, tak ať jsme veselí, ne?“ usmála se a všichni prskli smíchy a Nabule se zakroutila, vstala a skočila ke stolkům pod novinami, kde byly talíře se šunkou a salátem. A zatímco začala roznášet talíře se šunkou a salátem a stavět je před hosty, paní Mooshabrová v dolní části stolu si trochu nadsedla a zpívala:
 
-  
+</section>
+
+<section>
 
 _Dobrý večer, dobrou noc,  
 v andělskou moc…_
 
-  
+</section>
+
+<section>
 
 Všichni se smáli, křičeli, vřískali, jen ženich seděl, kýval, usmíval se, jen Lothar Baar byl zaražen, zamlklý a Rolsberg, jeho přítel, byl zaražen, zamlklý ještě víc, a Nabule roznášela talíře se šunkou a salátem a stavěla je před hosty. A paní Mooshabrová hleděla na hosty, zpívala:
 
-  
+</section>
+
+<section>
 
 _Zítra ráno  
 se zas probudíš…_
 
-  
+</section>
+
+<section>
 
 a byla tak zaujata zpěvem, aby zněl co nejlíp, že si ani nevšimla, že Nabule už všechny obsloužila talíři se šunkou a salátem, ale před ni na stůl nedala ani střep. Lothar Baar a Rolsberg si toho však okamžitě všimli a užasle pohlédli na blondýnu. Ale ta jen vyprskla smíchy a pak náhle zničehonic vpadla do matčina zpěvu.
 
@@ -120,3 +130,5 @@ Lothar Baar a Rolsberg se probrali, teprve když paní Moos­habrová prošla d
 „Kam jdete?“ vřískla Nabule. „Ještě to nekončí. Teď to teprv začne!“ Ale Lothar Baar a Rolsberg již vyběhli ze dveří. Vběhli do výčepu, výčepem na ulici, ale ulice před hospodou byla prázdná. Po paní Mooshabrové tu už nebylo stop. Rozběhli se k nejbližšímu rohu, ale ani za rohem nebylo po paní Mooshabrové stopy. Vrátili se do výčepu, ale hostinský jim řekl, že paní přece vyšla ven. Vyběhli znovu na ulici, ale na ulici nebyla jediná živá duše. Jen na protějším chodníku stál jeden starý uschlý strom.
 
 Paní Mooshabrová se schovala za dveře sousedního domu, a teprve když už dávno Lothar Baar a jeho přítel Rolsberg, strašně rozrušení, odešli, vyšla na ulici a spěchala domů.
+
+</section>

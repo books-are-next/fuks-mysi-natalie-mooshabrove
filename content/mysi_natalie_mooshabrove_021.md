@@ -3,6 +3,8 @@ title: XV
 contentType: prose
 ---
 
+<section>
+
 Paní Mooshabrová došla ke svému starému zchátralému domu jako v mlze. Avšak i když paní Mooshabrová došla k domu jako v mlze, byla ta mlha spíš jen kolem ní a v její rozvířené hlavě než ve smyslech. Například v očích měla paní Mooshabrová ještě plno světla z křišťálových lustrů a také plno toho červeného světla z lamp soch zpod schodiště z haly… a plno toho zářivého i červeného světla v očích měla, ještě když vešla do bídného průjezdu a obcházela cihly, trakař a sud vápna. Když vešla do kuchyně a rozsvítila, hodiny u kamen právě odbily půl sedmou. Paní Mooshabrová si odšpendlila klobouk, svlékla rukavice, kožich, korále, vyjmula z uší ringle a převlékla se ze sváteční jupky a sukně do svých starých šatů… stále měla v očích plno toho zářivého i červeného světla z vily. Napustila vodu do umyvadla, smyla si čerň, červeň i pudr a pak dala klobouk a své sváteční věci do skříně a šperky a rukavice do stolku v pokoji. Jen pruhovaný kožich s hřívou dala v pokoji na postel, aby jej mohla vrátit správcové, až se večer objeví.
 
 „Ta bude koukat, až přijde,“ řekla si v pokoji, „pět grošů, snad jsem se přeslechla. A až jí povím, co je uvnitř, toho světla z lustrů a z červených lamp…“ Vrátila se do kuchyně a šla nahlédnout do plotny, zda v ní ještě hoří, hned sáhla do truhlíku a přiložila. Ale sotva přiložila, slyšela, jak někdo v průjezdu otvírá dveře, a než se nadála, ve dveřích kuchyně stanul Wezr, Nabule a cizí člověk černý pes…
@@ -138,3 +140,5 @@ Paní Mooshabrová viděla ten její přihlouplý otlemený smích, kývla a p�
 „Paní,“ usmál se ještě jednou tiše černý pes a koutky jeho úst se blaženě zvedly, „už jdem, ale přece jen bych vám rád ještě něco řekl. Máte přece jen divné nápady. Co by Nabule dávala Laibachovi groš na byt na Alžbětově? Proč? Proč, když se s ním předevčírem dala rozvést.“
 
 A Wezr s balíky první, pak Nabule a nakonec člověk černý pes s balíky a s tichým úsměvem vyšli z kuchyňských dveří do chodby a pak do průjezdu kolem cihel, trakaře a sudu vápna a jejich kroky brzy zcela utichly. Paní Mooshabrová stála u kredence jako sloup.
+
+</section>

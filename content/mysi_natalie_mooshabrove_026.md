@@ -3,6 +3,8 @@ title: XX
 contentType: prose
 ---
 
+<section>
+
 A minul večer, minula noc a přišlo ráno. Ráno posledního dne měsíce října, dva dni před svátkem Dušiček, den státního svátku, narozenin kněžny vdovy panovnice Augusty.
 
 Co dělala paní Mooshabrová dopoledne, se neví. Asi něco vařila k obědu, snad trochu kukuřičné kaše. Asi též prohlédla pasti v kuchyni za kanapem, kredencem, kamny, také pasti v chodbě, spíži a pokoji, ač tohle každé dopoledne nedělala. Asi vynesla myšky do popelnice, která stála pod domovním schodištěm poblíž za jejím kuchyňským oknem z mléčného skla, jestliže se ovšem nějaké myšky za noc chytly, a pak dala do pasti nové kousky špeku, ač ani tohle každé dopoledne nedělala pravidelně a bez výhrad, možná že z toho všeho dnes nedělala vůbec nic. Jisté je snad jen to, že paní Natálie Mooshabrová někdy po obědě dobře uklidila byt, kuchyň, pokoj, chodbu a že se začala chystat. Chystat na svůj nástup u Oberona Felsacha, syna velkokupce, chystat na svůj nástup a večeři ve Felsachově vile.
@@ -311,7 +313,9 @@ Hospodyně se uklonila a znovu se zeptala, zda může ještě něčím sloužit
 
 A paní Mooshabrová vzala velkou černou tašku a balík v provaze, kývla hlavou, až se jí pápěří na klobouku zachvělo, a šla k velkým skleněným dveřím. Prošla jimi do jídelny a zavřela je za sebou.
 
-  
+</section>
+
+<section>
 
 Oberon Felsach a studenti vyšli po mramorovém schodišti, vyšli pomalu a klidně jako velvyslanci neznámého krále, a v patře si studenti ve svém pokoji nejprve svlékli ty rozepnuté pláště. Pak tam s Oberonem Felsachem přistoupili k oknům a u sklenek s vínem, u koláčů a květin začali zapalovat svíce. Mluvili přitom málo a tiše, jako se mluví u vznešených obřadů. Mluvili hlavně o tom, co se děje v městě na ulicích, na náměstích, mluvili o tom, že se to dá snad i vidět v televizi, poslouchali rádia ze zdí. Zpráva ze zasedání v knížecím paláci stále nepřicházela, ale zato přicházely zprávy, že se před palácem srotilo třicet tisíc lidí, provolávají slávu kněžně vdově Augustě a chtějí, aby kněžna – jestli žije – vyšla na balkón. Rádio také oznámilo, že na balkón paláce vyšel vojenský velitel města, aby těch třicet tisíc lidí jménem předsedy Albína Rappelschlunda uklidnil. Prohlásil, že kněžna žije, ale není v knížecím paláci. „Není-li zde,“ prohlásil, „nemůže ani vyjít na balkón a ukázat se, to přece dá zdravý lidský rozum. To je jako chtít vidět tady,“ prohlásil, „antilopu.“ Prohlásil, že kněžna tráví svůj svátek na dědičném sídle v podhůří, na Kočičím zámku. „Smaží žampióny,“ řekl vojenský velitel města z balkónu, „a háčkuje krajky.“ Pak rádio ještě řeklo, že policejní ministr Scarcola dosud na zasedání nepřišel. „Snad si vyvrkl nohu,“ řekl vojenský velitel města.
 
@@ -350,3 +354,5 @@ Když za chvilku Oberon Felsach a oba studenti se sáčkem kadidla, miskami, d�
 Paní Mooshabrová v dlouhé černé lesklé sukni, kterou si lehce přidržovala bílou rukavičkou, v jupce a s korály, ringlemi a v klobouku s dlouhým barevným pápěřím tam stála u čela stolu pod oknem, zataženým tmavomodrým sametem, na odkládacích stolcích stály talíře s jakýmsi jídlem a na stole…
 
 Stůl byl pokryt velkým černým ubrusem, jehož jeden kraj tvořilo jakési dřevěné břevno. Byl to velký černý ubrus s dřevěným břevnem na kraji, visícím k zemi, a mohl spíše než ubrus připomínat nějaký prapor. Na černém ubruse byla váza a v ní kytice jakýchsi prastarých uschlých květů. Kolem ní ležela stará černá a červená stuha se zlatým a stříbrným, zcela vybledlým nápisem. Kolem stály tři láhve vína a tři láhve nádherných limonád. Poblíž čela stolu byly na černém ubruse dvě mísy koláčů, jedny s mandlí uprostřed a druhé s hrozinkou, a uprostřed stolu hořela veliká vysoká hřbitovní svíce.
+
+</section>

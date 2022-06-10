@@ -3,6 +3,8 @@ title: XIII
 contentType: prose
 ---
 
+<section>
+
 Když paní Mooshabrová v dlouhé černé všední sukni a střevících bez kramfleků vešla za pár dní do kanceláře paní Knorringové, byla místnost plná lidí. Za psacím stolem pod portréty Albína Rappelschlunda a kněžny vdovy panovnice Augusty seděla paní Knorringová s jemnou upjatou tváří, s hlavou vztyčenou a s pravicí na telefonu. Vpravo od ní u stolku s psacím strojem seděl pan Smirsch. Vlevo u okenních mříží stál pan Landl. V předních dveřích za stolem paní Knorringové stáli dva, zřejmě pan Rott a ten pan Kefr. A na židli u zdi seděla jakási žena. Byla zhroucená jako nejstrašnější lidská troska, třásla se jakousi podivnou zimnicí a bledá byla jako smrt. Měla černé smuteční šaty, černý klobouk, černé punčochy a střevíce. Když paní Mooshabrová vešla do kanceláře zadními dveřmi z čekárny, nastalo v místnosti hluboké ticho. Paní Mooshabrová prošla tím hlubokým tichem k lavici před psací stůl paní Knorringové a usedla, jak starší ženy v dlouhých černých sukních usedají v krematoriu nebo v kaplích. A teprve když takto usedla, ta zhroucená a přebledá žena ve smutku na židli u zdi se dala do nářku.
 
 „Paní,“ řekla jí paní Knorringová za hlubokého ticha s pravicí na telefonu a s hlavou vztyčenou, „nebědujte. Přestaňte už naříkat a kvílet. Tím se už nic nespraví. Je třeba se s tím vyrovnat a smířit, takový je lidský život. Neštěstí a smrt nechodí po horách.“
@@ -246,3 +248,5 @@ Paní Knorringová obrátila list a řekla:
 „Dobrý,“ kývla paní Knorringová, „ale má mříže v oknech. Má mříže v oknech,“ ukázala k panu Landlovi, „a to nejen zde, ale i v přízemí i nahoře, a to se právě hodí. Úřady rozhodly, že pro Péči o matku a dítě stačí přízemní dům v Kerke, kdežto z této naší dosavadní budovy se udělá kriminál.“
 
 „Apropo,“ řekla paní Knorringová za chvíli a dala ruku na telefon, „tak vám, pane Rott, děkuji za zprávu a ten džbán s vodou, co tu zbyl na okně, už odneste. Teď se podíváme s pány na tohle lamentoso čili na žalm zoufání a smrti.“ A paní Knorringová s rukou na telefonu se zahloubala do not.
+
+</section>
