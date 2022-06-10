@@ -3,6 +3,8 @@ title: XVI
 contentType: prose
 ---
 
+<section>
+
 A třetí den odpoledne šla paní Mooshabrová na hřbitov. Už byl vskutku podzim, po polovici října, a listí na stromech ještě více usychalo, žloutlo a padalo než před těmi třemi dny a bylo i sychravěji a vlhčeji. Teď se už hroby zalévat nemusily ani přistřihovat tráva, teď se jen oprašovaly náhrobky a nápisy, a tak už ani paní Mooshabrová neměla ve velké černé tašce zahradnické nůžky a konývku, nýbrž jen hadříky a koště. Paní Mooshabrová chtěla dnes přichystat své hroby na Dušičky, aby příští týden, až půjde fasovat výzdobu, měla míň práce. Pár dní před Dušičkami chodila totiž na hřbitovní správu fasovat pro své hroby chvojí a po jedné či dvou umělých kytkách, kterými pak ty své hroby zdobila, tak to měli lidé pojištěno a zaplaceno. Pojištěno a zaplaceno až do doby, kdy měly hroby propadnout zkáze. Některé hroby byly pojištěny a zaplaceny na třicet let, jiné na padesát, jiné na sto a některé až do skonání světa, což jest do posledního soudu a zmrtvýchvstání. Do posledního soudu a zmrtvýchvstání měla paní Mooshabrová jen jeden hrob: rodinnou hrobku školního rady barona de Schubauera. Šťastná matka Vincenza Cancerová a její syn stavitel to měli na sto let a nešťastná matka Terezie Bekenmoschtová jen na třicet. Ve staré dlouhé černé sukni, staré jupce a střevících bez kramfleků, v zimníku, který nosila už asi padesát let, a ve starém černém šátku šla tedy toho podzimního odpoledne paní Mooshabrová s velkou černou zpola plnou taškou na hřbitov. Protože však měla dnes v úmyslu ještě něco, totiž zajít po hřbitově k paní Eichenkranzové na rozhraní hřbitova a parku, nešla tentokrát na hřbitov od Filipova, ba ani do Blauentalu, nýbrž šla na náměstí Annymarie Blažené.
 
 Na náměstí stála socha knížecí matky, zesnulé ve věku sta let, a vedle ní vysoká skleněná budova nádraží, pod nímž kdesi přehluboko byla stanice metra Centrální hřbitov s kioskem paní Linpeckové, a paní Mooshabrová na náměstí si řekla, co asi právě paní Linpecková dělá. Že snad sedí v kiosku a prodává pivo, limonády, bylo odpoledne, poobědní čas, a tak asi právě moc zákazníků nemá. „Jistě už dostává ali,“ řekla si paní Mooshabrová na náměstí, „jistě už nechce skákat pod vlak, ale jestli se chlapec nepolepší, zničí ji dřív, než se vrátí k divadlu. Jestlipak mu už koupila zimník a čepici, už je zima, snad už vskutku nenosí zelený svetřík, k Vánocům dostane lyže.“ Pak jí ještě blesklo, že když je odpoledne, poobědní čas, je hoch právě v útulku a k vozíku na perón přijde až v šest. Paní Mooshabrová odtrhla zrak od obrovské budovy nádraží a pohlédla daleko za ně, na kiosky ze skla a laminátu, snad právě ani tam nikdo nestál, a pohlédla na řadu vzdálených činžáků a vzpomněla na hospodu. „Tam bývala hospoda U Zlatýho kočáru, bývala, bývala, dnes z ní není ani cihla.“ Ještě jednou se rozhlédla náměstím, k nádražní budově, k soše v jejím stínu a pak se obrátila a šla k hřbitovní bráně. Před bránou se svezl její zrak na jedno nízké stavení, kterého si nikdy obzvlášť nevšímala, ale teď ano. Bylo to kamenictví. Tesali tam náhrobní kameny a ryli nápisy do pomníků a desek. „Tady je snad ještě ten jeden syn nešťastné paní Bekenmoschtové,“ řekla si, „je to snad ten kameník, co chodí s Nabulí a Wezrem, přijďte mě, paní, zbavit myší, však víte, kde jsem…“ Paní Mooshabrová potřásla velkou černou zpola plnou taškou a rychle se odvrátila. Vešla na hřbitov a tam pak pod stromem aleje se zastavila.
@@ -59,14 +61,20 @@ Doběhli k hrobu a paní Mooshabrová s výkřikem ukázala na náhrobní ná
 
 A pak paní Mooshabrová vykřikla potřetí a hlava se jí zatočila a starý člověk ještě stačil, aby ji v poslední chvíli zachytil. Paní Moos­habrová vytřeštila zrak na nápis na kameni a četla:
 
-  
+</section>
+
+<section>
 
 TEREZIE BEKENMOSCHTOVÁ
 
-  
+</section>
+
+<section>
 
 „Ale paní,“ řekl teď starší člověk, „ale paní, co? Ale vy jste Terezie Bekenmoschtová? Ale to je zvláštní,“ zaskučel a zavrtěl hlavou, „říkala jste, že jste jiná. Ale to snad přece neštymuje.“
 
 Paní Mooshabrová viděla, jak starší člověk třese hlavou, na níž má tvrďák, a jak má rozepnutý zimník a pod ním rozepnutý fráček a je mu vidět vesta s hodinkami se zlatým řetězem… a viděla, jak třese hlavou, říká, skučí, šeplá: „Ale to je zvláštní, to je zvláštní, já podivný Klevenhütter, neztratil jsem snad ze šosu groš…“ A pomalu odchází.
 
 Paní Mooshabrová zdvihla z trávy hadřík, velkou černou tašku, hlava jí hořela, srdce tlouklo, jako když nedávno prchala z křižovatky, po čele jí stékal pot. „Ježíši Kriste,“ blesklo jí, „Ježíši Kriste, měla bych jít k vodovodu Lochů umýt se… nezbláznila jsem se?“ Ve chvíli, kdy zdvihla hadřík, tašku z trávy, zaslechla za tím hustým suchým křovím opodál nějaký hluk, a když tam pohlédla, zaslechla veliký smích, jeden smích dost ostrý, hrubý, druhý smích vřískavý, přihlouplý a otlemený a třetí smích tichý a měkký jako samet. A ještě zahlédla skrz to husté suché křoví tři postavy, z nichž jedna nesla pod paží jakousi větší kamennou desku…
+
+</section>

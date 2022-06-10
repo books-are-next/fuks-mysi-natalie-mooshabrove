@@ -3,6 +3,8 @@ title: VIII
 contentType: prose
 ---
 
+<section>
+
 Den nato přivedli dva civilisté paní Natálii Mooshabrovou do prvního patra jednoho šedého domu s mřížemi v oknech a posadili ji v příslušné kanceláři na lavici před psací stůl. Na psacím stole byl telefon a nad stolem portréty předsedy Albína Rappelschlunda a kněžny vdovy panovnice Augusty. Vpravo od psacího stolu byl stolek s psacím strojem a vlevo jedno šedé zamřížované okno. Za zády paní Mooshabrové byly dveře do jakési čekárny a před ní, za psacím stolem, byly jiné dveře. Tyto přední dveře vedly do nějaké další kanceláře a byly otevřené.
 
 „Všechno víme,“ říkal kdosi za těmi otevřenými dveřmi v kanceláři, „pachatel se našel. Jenže vy dosud nevíte, milý hloupý Kefre, jedno. Že je to žena.“
@@ -254,3 +256,5 @@ A paní Mooshabrová se teď už skutečně mohla poroučet.
 Když byla za dveřmi v čekárně, slyšela, jak paní Knorringová říká pánům: „Tak pohleďte do not.“
 
 A když vycházela z čekárny na chodbu, měla dojem, jako by zaslechla z kanceláře nějaké zazpívání.
+
+</section>

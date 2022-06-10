@@ -3,6 +3,8 @@ title: XII
 contentType: prose
 ---
 
+<section>
+
 Paní Mooshabrová přišla domů.
 
 Nejprve v kuchyni rozsvítila, pod krkem si rozvázala mašli a svlékla čepec. Pak svlékla rukavičky, korále a ringle a všechno zatím dala do kouta. Pak pohlédla do kamen. „Dnes mi noha nebolela jako tenkrát,“ řekla si, „dnes ne, i když jsem po poledni musila tak strašně běžet.“ Natočila do umyvadla vodu a umyla si rty, tváře, obočí, a pak si rozčesala staré šedé vlasy. Ale provázky na podvázání z kredence ještě nevzala a ani se ještě nepřevlékla do nočního, chtěla dnes totiž pořádně zkontrolovat nastražené pasti a vyměnit v nich příliš okoralá sousta. Šla do spíže a přinesla talíř, na němž měla nakrájené kousky špeku. Dala jej na stůl a pak vzala z kredence sáček s bílým práškem, jedem Marokanem, a dala jej na stůl k talíři. A pak chtěla posbírat ty pasti v kuchyni, v pokoji i v chodbě, když někdo v průjezdu zaklepal. „Správcová,“ řekla si, „dobře, že jde. Ta bude koukat, jak jsem prodávala, ta bude koukat, co mě postihlo.“ A paní Mooshabrová s rozčesanými vlasy vyšla do chodby a otevřela dveře. Ale správcová to nebyla. Byli to nějací dva muži.
@@ -206,3 +208,5 @@ Policisté zmlkli a dál se na Wezra neptali.
 „Svátek, svátek…“ paní Mooshabrová se opět zasmála, „svátek, ani nevím, mám. Ale já ho nedržím, nikdy jsem ho nedržela, snad o něm neví ani správcová.“
 
 Policisté se u dveří ještě naposled rozhlédli kuchyní, ke kredenci, oknu z mléčného skla, ke kamnům, k otomanu, a vyšli. Vyšli z kuchyně do chodby a z chodby do průjezdu. Pohlédli na hromádku cihel, trakař a sud vápna, s povzdechem se usmáli na paní Moos­habrovou a paní Mooshabrová s úsměvem a povzdechem mávla rukou. Pak se vrátila do kuchyně.
+
+</section>

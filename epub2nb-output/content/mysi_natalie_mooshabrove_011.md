@@ -3,6 +3,8 @@ title: V
 contentType: prose
 ---
 
+<section>
+
 Druhý den odpoledne se vracela paní Mooshabrová z nákupu z družstva. V menší černé tašce nesla chléb, trochu cukru a půl kila krup. Když docházela ke svému zchátralému domu, potkala zedníky, kteří se vraceli z práce. Šli jen tak v zabílených blůzách – bylo slunné zářijové odpoledne –, zpívali si a na paní Mooshabrovou sotva mrkli. „Už aby to skončili,“ myslila si paní Mooshabrová, „ještě se tam vskutku všichni zabijem. Prápor jsem sundala…“ pohlédla na průčelí zchátralého domu, „ale než ho uložím, musím ho vyprat. A večer…“
 
 Večer chtěla jít paní Mooshabrová do parku k vodotrysku. K vo­dotrysku k soše básníka, kde se toulá malý Eichenkranz. „Večer půjdu do parku k vodotrysku,“ říkala si, jak docházela k domu, „musím tam toho chlapce najít. Včera jsme ho nenašly a zítra musím s hlášením k paní Knorringové. Přijde tam i ten starý okradený od hrobu a ubohá paní Eichen. Večer jdu do parku a chlapce najdu.“ V myšlenkách na paní Eichenkranzovou, na večerní návštěvu parku a na zítřejší hlášení u paní Knorringové došla paní Mooshabrová k domu.
@@ -190,3 +192,5 @@ Vzala ho do bílé rukavičky a četla:
 A pod tím stálo:
 
 „Ty peníze a zajíce musíme dát Klaudingerce, taky deštník, jede s náma do Ritzu. Paní, vy prý jste odbornice na hroby, děti a myši. Hroby a děti nemám, ale zato myší mám v bytě dost. Kdybyste mi pomohla, dal bych vám groš. Ale musila byste donést vlastní pasti. Vždyť vy ani nevíte, kdo Wezr je, co dělá.“
+
+</section>

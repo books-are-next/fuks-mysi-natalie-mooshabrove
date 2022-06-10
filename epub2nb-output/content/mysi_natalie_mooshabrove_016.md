@@ -3,6 +3,8 @@ title: X
 contentType: prose
 ---
 
+<section>
+
 Hodiny u kamen právě tloukly jednu, když někdo klepal. Nebylo to vlastně klepání, nýbrž jen bouchnutí klouby do dveří v průjezdu, a pak hned byl slyšet klíč a odmykání zámku.
 
 „Nabule,“ vzdychla paní Mooshabrová a položila na otoman pasti, „Nabule. Panebože,“ zhrozila se, „Wezr.“
@@ -205,7 +207,9 @@ A pak Wezr otevřel dveře, vyšli do průjezdu.
 
 A brzy jejich kroky ztichly venku na ulici jako kroky duchů.
 
-  
+</section>
+
+<section>
 
 Paní Mooshabrová pohlédla na štos novin v silném provazu na stole a pak se těch novin dotkla, jako by nevěřila očím. Nevěřila očím, i když ten štos tu na stole skutečně zbyl, ke všemu ještě srovnán tak bezvadně a přesně, jako by byl vypadl ze stroje, a název Rozkvět na něm tou tiskařskou černí jen zářil. Paní Mooshabrová nikdy noviny nekupovala a málokdy je četla – někdo z domu, jako správcová či Steinhägerovi, jí občas dal noviny k zatápění, to bylo vše. Natož tedy aby paní Mooshabrová někdy noviny prodávala. Že by teď měla jít na ulici a noviny prodávat, jí připadalo jako sen. A pak, nemohla ani věřit, že by jí tu byli nechali dvě stě kusů, za něž dostane, když je prodá, celé dva šestáky. Pohlédla na nápisy na první stránce pod provazem a pomalu si je začala – tak přes ten provaz – číst. Nejvýš byl nadpis „Policejní ministr Scarcola byl přijat předsedou Albínem Rappelschlundem. Nehrozí v naší milé zemi rozbroje?“ A pod tím článkem byly dva jiné: „U kráteru Einstein se dokončuje moderní věznice pro 500 deportovaných vrahů. Doživotně ve skafandrech.“ A vedle: „Nové zprávy o chystaném Rekviem. Studuje ho tisíc hudebníků a tisíc zpěváků. Kdy bude premiéra, se ještě neví.“ A pod těmito články byl další, ale ten pak už bylo vidět jen zpola, protože na tom místě byly noviny přeloženy. Nápis zněl: „Lid chce vidět kněžnu.“
 
@@ -242,3 +246,5 @@ Paní Mooshabrová se zapotácela a nebyla schopna slova.
 Ale to už paní Mooshabrová ani nevnímala. Cítila, že ji čísi ruce táhnou z kruhu lidí, který se kolem ní svírá, zahlédla ještě zdvižené pěsti a pak ještě za hlavami lidí nějaké tváře, které se strašlivě smály, měla dojem, jako by to byly tváře, které se kdesi poblíž v nějakém průchodu skrývaly a snad je odněkud zná… a pak už ani nevěděla, co se s ní děje. Někdo jí hodil na hlavu ten štos novin, který měla za zády, ale trefil se jen zpola. Ona už prchala s těmi pár výtisky, které jí zůstaly v ruce, prchala ke křižovatce a kdosi za ní volal: „rychlejc, rychlejc, zmizte“, a kdosi jiný volal: „patrol, patrol“, a kdosi ještě jiný: „zahoďte ty peníze, co jste falešně utržila, hoďte je na zem“. Ale to už prchala přes křižovatku po bílých pruzích na asfaltu a na červenou, právě se rozjížděla auta, prchala kolem obchodního domu Slunečnice a střevíce bez kramfleků se jí vyzouvaly a dlouhá černá sukně se jí pletla pod nohy a pod nohy se jí pletlo ještě něco, o čem ani neměla tušení, zahlédla strážníka v černé helmě se stříbrem a střapci na ramenou, běžela, běžela a náhle…
 
 Náhle, když už byla na konci sil, všechno v ní ztichlo. Bylo to ve chvíli, kdy vběhla do první ze tří bídných ulic poblíž svého domu a když už skutečně nemohla dál. Kdy už jí krev v hlavě, v hrudi tloukla tak zběsile, že se zdálo, že ji tím tlukotem srazí k zemi. Proč tak náhle za ní všechno ztichlo, vůbec netušila, snad to byl nějaký podivný zázrak anebo to snad bylo tím, že na velké křižovatce běžela na červenou a pronásledovatelům v běhu zabránila rozjíždějící se auta, bůhsuď. Ale vskutku, když se v té první z bídných ulic zastavila, zpocená, ztrhaná, s krví tlukoucí v hlavě a v hrudi, nebyla jediná živá duše za ní. Viděla, jak proti ní jdou nějací lidé, kteří byli docela nevšímaví, nevěděli, netušili, co se stalo, přicházeli odjinud, a kus dál za nimi viděla nějaké v zabílených blůzách, kteří si hvízdali a pískali, a to snad byli zedníci z jejich domu, kteří se vraceli z práce… Paní Mooshabrová brzy zas vykročila dál a konečně doběhla k domu. Vběhla do průjezdu, oběhla cihly, trakař a sud vápna, odemkla a zmizela v bytě. V kuchyni klesla na kanape jako starý uschlý podťatý strom. Jen ještě otevřela ruku, z níž vypadlo pár čísel Rozkvětu na zem k jejím nohám, kde teď také ležel konec silného provazu, jehož začátek měla v kapse.
+
+</section>

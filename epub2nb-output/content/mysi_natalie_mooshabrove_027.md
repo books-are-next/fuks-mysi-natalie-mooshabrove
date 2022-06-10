@@ -3,6 +3,8 @@ title: XXI
 contentType: prose
 ---
 
+<section>
+
 Když hospodyně v krajkové zástěře a čepci vjížděla s vozíkem širokými dveřmi do jídelny, talíře a příbory na vozíku, polévka, haluhy a řasy, žampióny, smažené ryby, skarflety a líhně, chroustnatky a saláty z medúz a chobotnic se třásly. Třásly se ruce staré hospodyně a třásla se celá. Paní Mooshabrová v čele stolu před tmavomodrým sametovým závěsem hleděla na ni, jak se s vozíkem blíží, hleděla na ni obláčky dýmu, který se tu vznášel ze tří misek na příborníku a plnil sál sladkou nebeskou vůní, hleděla na ni, malou, vetchou, starou, přes suché květy ve váze a velkou vysokou rozsvícenou svíci uprostřed stolu. Hospodyně dojela s vozíkem k její pravici, tam v to místo mezi ní a synem velkokupce, a Oberon Felsach v křesle jí pokynul, aby dávala na stůl. Nejprve vše postavila před paní Moos­habrovou v čele stolu. Talíř se želví polévkou a smaženou rybu s haluhami a řasami. Pak totéž dala před Oberona Felsacha. Pak před studenta v tmavém kostkovaném saku a bílé košili, který seděl z druhé strany syna velkokupce. Pak před druhého studenta, který seděl proti němu na druhé straně stolu, a konečně před prázdné křeslo po levici paní Mooshabrové, to bylo místo její, místo staré, vetché, malé hospodyně. Pak vyňala z vozíku talíře se skarfletami, líhněmi, chroustnatkami a saláty z medúz a chobotnic i s ohřívadly a dala je na nízké odkládací stolky u zdi k jakýmsi talířům, které tam už byly. A pak zavezla vozík do rohu a usedla ke stolu po levici paní Mooshabrové. A pak přál Oberon Felsach dobrou chuť a všichni začali jíst polévku.
 
 Paní Mooshabrová v čele stolu jedla polévku z želv opatrně bílou rukavičkou a její červená a bílá tvář byla naprosto klidná. Nehnul se v ní ani sval. Jen barevné pápěří na klobouku se jí chvělo, jen ringle na dlouhých drátech v uších se jí třásly, jen korále na krku, barevné bambusové koule jí občas zachrastily, jedla pomalu a opatrně v bílých rukavičkách a mlčela. Pak odložila talíř a lžíci. A talíř a lžíci odložil i Oberon Felsach, stará vetchá hospodyně a oba studenti. Hospodyně rychle, ustrašeně vstala a sklidila talíře a lžíce na vozík. Pak Oberon Felsach začal jíst rybu a salát z řas a haluh a také studenti a nakonec i paní Mooshabrová. Uprostřed jídla Oberon Felsach vstal, šel ke zdi a otočil knoflík. Ozval se hlas, ale nebyly to zprávy. Hlas hlásil hudbu.
@@ -127,7 +129,9 @@ A pak se ozval další hlas.
 
 „Předseda Albín Rappelschlund byl právě v knížecím paláci zatčen, bude souzen a popraven.“
 
-  
+</section>
+
+<section>
 
 Konečně se u stolu všichni probrali.
 
@@ -139,7 +143,9 @@ A pak se z jídelní zdi znovu ozval hlas.
 
 „Policejní ministr Scarcola,“ ozval se hlas z jídelní zdi, „přejímá od této chvíle zatímně veškerou moc v zemi.“ A pak bylo provolání:
 
-  
+</section>
+
+<section>
 
 > „Aby se zabránilo všem zlům v těchto radostných a přitom osudových chvílích a aby byl zachován klid, přejímám ihned v zemi veškerou policejní, vojenskou i správní moc do chvíle, než usedne na trůn z vůle lidu opět skutečná vládkyně, vdova panovnice kněžna Augusta thálská. Ruším s okamžitou platností stanné právo, vyhlášené padlým despotou, a dávám okamžitou amnestii všem politickým vězňům zde i na našem mrtvém souputníku.
 
@@ -193,20 +199,26 @@ Paní Mooshabrová v tvářích červených a bílých, s nabarveným obočí
 
 A pak pomalu za vojenských pochodů a zvonů přednášela:
 
-  
+</section>
+
+<section>
 
 _Stařenka slepá z kostela kráčí,  
 cestu si berličkou hledá a značí.  
 Berličkou hmatat není tak snadné,  
 stařenka slepá často upadne._
 
-  
+</section>
+
+<section>
 
 Pak řekla:
 
 „Když byli Wezr a Nabule malí, zpívala jsem jim ukolíbavku.“ A poprvé se napila z láhve označené Limo a pomalu, za vojenských pochodů a zvonů zpívala:
 
-  
+</section>
+
+<section>
 
 _Dobrý večer, dobrou noc,  
 v andělskou moc…  
@@ -214,7 +226,9 @@ v andělskou moc…
 Zítra ráno,  
 až se probudíš._
 
-  
+</section>
+
+<section>
 
 A pak se ozvalo zvonění.
 
@@ -270,7 +284,9 @@ Pak padla na koberec jako starý, suchý, podťatý strom, a ti, co klečeli ne
 
 „To všechno byl můj osud. Bůh buď milostiv mé ubohé duši.“
 
-  
+</section>
+
+<section>
 
 Ten den pozdě večer, jedenatřicátého října, dva dni před svátkem Dušiček, bylo oznámeno, že vdova panovnice Augusta thálská, kněžna ze Saas-Beer, je mrtva. Zemřela, podlehnuvši otravě jedem, na své pětasedmdesáté narozeniny, ve chvíli, kdy se po půl století vracela na trůn. Zlatý kočár před vilou Oberona Felsacha odvezl do paláce již jen starou mrtvou nalíčenou ženu v dlouhé černé lesklé sukni, jupce a střevících, které byly bez kramfleků… s korály z bambusu, ringlemi, kloboukem se zeleným a červeným chmýřím, které se chvělo samo od sebe a nárazy kol, a navrch ještě přikrytou černo-hnědě pruhovaným kabátem s obrovskou chlupatou hřívou. Druhý den se zpívalo největší Rekviem, které kdy bylo v zemi prove­deno, pět tisíc zpěváků a hudebníků, zpívalo se v katedrále svatého Quida z Fontgollandu a zádušní mši sloužil kardinál arcibiskup thálský. Rekviem řídil monsieur Scarone, v sopránech zpívala paní Magdalena Knorringová z Péče a mezi hornami se ozýval pan Joa­chim Landl a kdesi také snad i pan Zepheus Smirsch. Při Dies irae vnikla do chrámu záplava světla.
 
@@ -279,3 +295,5 @@ Na starém zchátralém domě v Blauentalu visel nad vchodem do průjezdu na sk
 „Jak strašné nervy musila ta ubohá žena mít, jak velkou byla nucena být herečkou.“
 
 A měla pravdu.
+
+</section>

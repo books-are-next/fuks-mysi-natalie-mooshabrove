@@ -3,6 +3,8 @@ title: XVII
 contentType: prose
 ---
 
+<section>
+
 Co dělala ten den večer doma paní Mooshabrová, nikdo neví, protože ten den, po příchodu ze hřbitova, nikdo u ní nebyl. Nebyla u ní ani správcová Kralcová. Ale co se dělo v nitru paní Mooshabrové, neví nikdo tím spíš a nikdo se to nikdy nedozví. Možná že paní Mooshabrová celý večer nehybně seděla v kuchyni na kanapi, hleděla před sebe a tato vnější nehybnost byla výrazem jejího nitra. Možná že ani nezatopila v kamnech, nevařila ani čaj, neslyšela ani hodiny. Možná že celý večer jen nehybně seděla na kanapi a hleděla před sebe jako starý, zvadlý, slepý strom. Snad nakonec šla spát, ale zda spala, či bděla, také nikdo neví, a neví ani to, zda se paní Mooshabrové zdál nějaký sen.
 
 A nikdo neví, co paní Mooshabrová dělala druhý den, od rána do večera nevyšla z bytu. Nepotkala ji tedy ani správcová, ani zedníci, kteří pomalu ve starém bídném domě končili práci a sundávali lešení, nepotkal ji z domu nikdo. Paní Mooshabrová nevyšla z bytu a nikdo u ní snad ani neklepal. Teprve třetí den odpoledne paní Natálie Mooshabrová ve svých starých šatech, dlouhé černé sukni, černém šátku a starém kabátě, ve střevících bez kramfleků vyšla ven s menší černou taškou.
@@ -141,36 +143,48 @@ Vtom se otevřely dveře a do lékárny vstoupil zákazník. Nějaký mládenec
 
 „Hospoda,“ pískl lékárník a mrkl na mladíka, „hospoda! Kočár je však i souhvězdí, paní. A taky je to povoz o čtyřech kolech, který táhne koňstvo. To se, paní, nazývá mnohovýznamnost slov. Vy, paní, na pánaboha nevěříte, takže asi ani nevěříte na poslední soud a zmrtvýchvstání. Toho se Rekviem právě týká.“ A lékárník pohlédl do not a začal recitovat:
 
-  
+</section>
+
+<section>
 
 _„Strašné chvění, bázeň hrozná,  
 až se tvorstvo Soudci přizná,  
 jenž hned řeší vše a pozná._
 
-  
+</section>
+
+<section>
 
 _Zní hlas trouby divně duně,  
 volá spáče v hrobu lůně,  
 Pán kde sedí na svém trůně._
 
-  
+</section>
+
+<section>
 
 _.....  
 Přinesena psaná kniha,  
 je v ní všecka hříchů tíha,  
 z ní pak Soudce viny stíhá._
 
-  
+</section>
+
+<section>
 
 A ještě vám, paní, řeknu jeden verš,“ lékárník zamžikal skrz brejličky na mladíka s vousy, který stál a čekal… „poslední:
 
-  
+</section>
+
+<section>
 
 _Soudce zasedat až bude,  
 zjeví se, co skryto všude.  
 Bez pomsty zda něco zbude?_
 
-  
+</section>
+
+<section>
 
 Tak tedy, paní, to je Rekviem. Rekviem,“ lékárník mrkl na nedaleké váhy, „tak tedy tady máte ten Rattenal. Dva šestáky pětník.“
 
@@ -181,3 +195,5 @@ Paní Mooshabrová sáhla do tašky a vyndala peníze. Lékárník vzal peníze
 Paní Mooshabrová schovala balíček do tašky, poděkovala a šla.
 
 „A čtěte návod,“ zvolal za ní ještě lékárník, „je tam i etiopsky, jestli tu řeč znáte, tak se mluví na Kanárských ostrovech…“ A pak pohlédl na mladíka a paní Mooshabrová vyšla na ulici.
+
+</section>
