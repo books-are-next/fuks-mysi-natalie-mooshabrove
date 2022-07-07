@@ -65,7 +65,15 @@ A pak paní Mooshabrová vykřikla potřetí a hlava se jí zatočila a star�
 
 <section>
 
+<div class="centered">
+
+<div class="verse">
+
 TEREZIE BEKENMOSCHTOVÁ
+
+</div>
+
+</div>
 
 </section>
 

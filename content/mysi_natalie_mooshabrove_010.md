@@ -123,8 +123,16 @@ Paní Eichenkranzová se zastavila před hrobkou a pohlédla na nápis. Stálo 
 
 <section>
 
+<div class="centered">
+
+<div class="verse">
+
 RODINA ŠKOLNÍHO RADY  
 BARONA DE SCHUBAUERA
+
+</div>
+
+</div>
 
 </section>
 
@@ -136,9 +144,17 @@ A pod tím stálo:
 
 <section>
 
+<div class="centered">
+
+<div class="verse">
+
 Školní rada  
 Joachim baron de Schubauer,  
 nar. 1854, zemř. 1914.
+
+</div>
+
+</div>
 
 </section>
 
@@ -186,7 +202,15 @@ Paní Eichenkranzová se zastavila a četla zlaté písmo na pomníku:
 
 <section>
 
+<div class="centered">
+
+<div class="verse">
+
 VINCENZA CANCEROVÁ
+
+</div>
+
+</div>
 
 </section>
 
@@ -198,7 +222,15 @@ VINCENZA CANCEROVÁ
 
 <section>
 
+<div class="centered">
+
+<div class="verse">
+
 STAVITEL VINCENZ CANCER
+
+</div>
+
+</div>
 
 </section>
 
@@ -214,7 +246,15 @@ Paní Eichenkranzová přistoupila k hrobu a četla:
 
 <section>
 
+<div class="centered">
+
+<div class="verse">
+
 TEREZIE BEKENMOSCHTOVÁ
+
+</div>
+
+</div>
 
 </section>
 
@@ -316,9 +356,25 @@ V parku na konci u hřbitovní zdi. Zpod vysokých stromů, obklo­pených hus
 
 <section>
 
+<div class="centered">
+
+<div class="verse">
+
 VDOVA KLOTILDA EICHENKRANZOVÁ
 
+</div>
+
+</div>
+
+<div class="centered">
+
+<div class="verse">
+
 hřbitovní potřeby
+
+</div>
+
+</div>
 
 </section>
 
@@ -330,7 +386,15 @@ Vedle byl plech s barevným obrázkem láhve a na něm nápis:
 
 <section>
 
+<div class="centered">
+
+<div class="verse">
+
 PIVO, LIMONÁDY!
+
+</div>
+
+</div>
 
 </section>
 
