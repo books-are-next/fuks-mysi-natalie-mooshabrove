@@ -1,0 +1,549 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Myši Natálie Mooshabrové",
+  "author": "Ladislav Fuks",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "fuks-mysi-natalie-mooshabrove-72a4ab9",
+  "revision": "72a4ab9",
+  "readingOrder": [
+    "promo.html",
+    "mysi_natalie_mooshabrove_005.html",
+    "mysi_natalie_mooshabrove_006.html",
+    "mysi_natalie_mooshabrove_007.html",
+    "mysi_natalie_mooshabrove_008.html",
+    "mysi_natalie_mooshabrove_009.html",
+    "mysi_natalie_mooshabrove_010.html",
+    "mysi_natalie_mooshabrove_011.html",
+    "mysi_natalie_mooshabrove_012.html",
+    "mysi_natalie_mooshabrove_013.html",
+    "mysi_natalie_mooshabrove_014.html",
+    "mysi_natalie_mooshabrove_015.html",
+    "mysi_natalie_mooshabrove_016.html",
+    "mysi_natalie_mooshabrove_017.html",
+    "mysi_natalie_mooshabrove_018.html",
+    "mysi_natalie_mooshabrove_019.html",
+    "mysi_natalie_mooshabrove_020.html",
+    "mysi_natalie_mooshabrove_021.html",
+    "mysi_natalie_mooshabrove_022.html",
+    "mysi_natalie_mooshabrove_023.html",
+    "mysi_natalie_mooshabrove_024.html",
+    "mysi_natalie_mooshabrove_025.html",
+    "mysi_natalie_mooshabrove_026.html",
+    "mysi_natalie_mooshabrove_027.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Mon Jul 18 2022 20:47:32 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658177252553
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "mysi_natalie_mooshabrove_005.html",
+      "toc": []
+    },
+    {
+      "title": "Několik poznámek autora k Myším Natálie Mooshabrové a k literatuře a umění vůbec",
+      "file": "mysi_natalie_mooshabrove_005.html",
+      "words": 2217,
+      "chars": 13752,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "mysi_natalie_mooshabrove_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Několik poznámek autora k Myším Natálie Mooshabrové a k literatuře a umění vůbec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Myši Natálie Mooshabrové",
+      "file": "mysi_natalie_mooshabrove_006.html",
+      "words": 6,
+      "chars": 27,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 2,
+      "prev": "mysi_natalie_mooshabrove_005.html",
+      "next": "mysi_natalie_mooshabrove_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I",
+      "file": "mysi_natalie_mooshabrove_007.html",
+      "words": 2306,
+      "chars": 13352,
+      "ideas": 57,
+      "role": "chapter",
+      "order": 3,
+      "prev": "mysi_natalie_mooshabrove_006.html",
+      "next": "mysi_natalie_mooshabrove_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II",
+      "file": "mysi_natalie_mooshabrove_008.html",
+      "words": 4379,
+      "chars": 25107,
+      "ideas": 129,
+      "role": "chapter",
+      "order": 4,
+      "prev": "mysi_natalie_mooshabrove_007.html",
+      "next": "mysi_natalie_mooshabrove_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III",
+      "file": "mysi_natalie_mooshabrove_009.html",
+      "words": 1815,
+      "chars": 10276,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 5,
+      "prev": "mysi_natalie_mooshabrove_008.html",
+      "next": "mysi_natalie_mooshabrove_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IV",
+      "file": "mysi_natalie_mooshabrove_010.html",
+      "words": 6385,
+      "chars": 37141,
+      "ideas": 210,
+      "role": "chapter",
+      "order": 6,
+      "prev": "mysi_natalie_mooshabrove_009.html",
+      "next": "mysi_natalie_mooshabrove_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V",
+      "file": "mysi_natalie_mooshabrove_011.html",
+      "words": 4189,
+      "chars": 23471,
+      "ideas": 95,
+      "role": "chapter",
+      "order": 7,
+      "prev": "mysi_natalie_mooshabrove_010.html",
+      "next": "mysi_natalie_mooshabrove_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VI",
+      "file": "mysi_natalie_mooshabrove_012.html",
+      "words": 3364,
+      "chars": 19482,
+      "ideas": 68,
+      "role": "chapter",
+      "order": 8,
+      "prev": "mysi_natalie_mooshabrove_011.html",
+      "next": "mysi_natalie_mooshabrove_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VII",
+      "file": "mysi_natalie_mooshabrove_013.html",
+      "words": 1468,
+      "chars": 8360,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 9,
+      "prev": "mysi_natalie_mooshabrove_012.html",
+      "next": "mysi_natalie_mooshabrove_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VIII",
+      "file": "mysi_natalie_mooshabrove_014.html",
+      "words": 5164,
+      "chars": 30120,
+      "ideas": 127,
+      "role": "chapter",
+      "order": 10,
+      "prev": "mysi_natalie_mooshabrove_013.html",
+      "next": "mysi_natalie_mooshabrove_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IX",
+      "file": "mysi_natalie_mooshabrove_015.html",
+      "words": 9357,
+      "chars": 54438,
+      "ideas": 208,
+      "role": "chapter",
+      "order": 11,
+      "prev": "mysi_natalie_mooshabrove_014.html",
+      "next": "mysi_natalie_mooshabrove_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "X",
+      "file": "mysi_natalie_mooshabrove_016.html",
+      "words": 5543,
+      "chars": 31059,
+      "ideas": 120,
+      "role": "chapter",
+      "order": 12,
+      "prev": "mysi_natalie_mooshabrove_015.html",
+      "next": "mysi_natalie_mooshabrove_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "X",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XI",
+      "file": "mysi_natalie_mooshabrove_017.html",
+      "words": 4836,
+      "chars": 27926,
+      "ideas": 137,
+      "role": "chapter",
+      "order": 13,
+      "prev": "mysi_natalie_mooshabrove_016.html",
+      "next": "mysi_natalie_mooshabrove_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XII",
+      "file": "mysi_natalie_mooshabrove_018.html",
+      "words": 2688,
+      "chars": 15506,
+      "ideas": 103,
+      "role": "chapter",
+      "order": 14,
+      "prev": "mysi_natalie_mooshabrove_017.html",
+      "next": "mysi_natalie_mooshabrove_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIII",
+      "file": "mysi_natalie_mooshabrove_019.html",
+      "words": 4924,
+      "chars": 28393,
+      "ideas": 123,
+      "role": "chapter",
+      "order": 15,
+      "prev": "mysi_natalie_mooshabrove_018.html",
+      "next": "mysi_natalie_mooshabrove_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIV",
+      "file": "mysi_natalie_mooshabrove_020.html",
+      "words": 5819,
+      "chars": 33760,
+      "ideas": 96,
+      "role": "chapter",
+      "order": 16,
+      "prev": "mysi_natalie_mooshabrove_019.html",
+      "next": "mysi_natalie_mooshabrove_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XV",
+      "file": "mysi_natalie_mooshabrove_021.html",
+      "words": 2857,
+      "chars": 16046,
+      "ideas": 69,
+      "role": "chapter",
+      "order": 17,
+      "prev": "mysi_natalie_mooshabrove_020.html",
+      "next": "mysi_natalie_mooshabrove_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVI",
+      "file": "mysi_natalie_mooshabrove_022.html",
+      "words": 2933,
+      "chars": 17353,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 18,
+      "prev": "mysi_natalie_mooshabrove_021.html",
+      "next": "mysi_natalie_mooshabrove_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVII",
+      "file": "mysi_natalie_mooshabrove_023.html",
+      "words": 1996,
+      "chars": 11705,
+      "ideas": 89,
+      "role": "chapter",
+      "order": 19,
+      "prev": "mysi_natalie_mooshabrove_022.html",
+      "next": "mysi_natalie_mooshabrove_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVIII",
+      "file": "mysi_natalie_mooshabrove_024.html",
+      "words": 3411,
+      "chars": 20109,
+      "ideas": 116,
+      "role": "chapter",
+      "order": 20,
+      "prev": "mysi_natalie_mooshabrove_023.html",
+      "next": "mysi_natalie_mooshabrove_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVIII",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIX",
+      "file": "mysi_natalie_mooshabrove_025.html",
+      "words": 8434,
+      "chars": 49062,
+      "ideas": 185,
+      "role": "chapter",
+      "order": 21,
+      "prev": "mysi_natalie_mooshabrove_024.html",
+      "next": "mysi_natalie_mooshabrove_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XX",
+      "file": "mysi_natalie_mooshabrove_026.html",
+      "words": 8590,
+      "chars": 50616,
+      "ideas": 174,
+      "role": "chapter",
+      "order": 22,
+      "prev": "mysi_natalie_mooshabrove_025.html",
+      "next": "mysi_natalie_mooshabrove_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XX",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXI",
+      "file": "mysi_natalie_mooshabrove_027.html",
+      "words": 7064,
+      "chars": 41417,
+      "ideas": 136,
+      "role": "chapter",
+      "order": 23,
+      "prev": "mysi_natalie_mooshabrove_026.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXI",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 137,
+      "chars": 914,
+      "ideas": 16,
+      "role": "about",
+      "order": null,
+      "prev": "mysi_natalie_mooshabrove_027.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 99888,
+      "chars": 579432,
+      "ideas": 2390
+    },
+    "chapters": {
+      "words": 99745,
+      "chars": 578478,
+      "ideas": 2371
+    }
+  }
+}
