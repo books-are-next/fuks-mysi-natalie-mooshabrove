@@ -46,7 +46,7 @@ tocBase:
         title: "Několik poznámek autora k\_Myším Natálie Mooshabrové a\_k\_literatuře a\_umění vůbec"
         hiddenTitle: true
       - link: mysi_natalie_mooshabrove_006.html
-        title: Citát
+        title: Poznámka autora
         hiddenTitle: true
       - link: mysi_natalie_mooshabrove_007.html
         title: I
