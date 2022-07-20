@@ -44,10 +44,10 @@ tocBase:
     children:
       - link: mysi_natalie_mooshabrove_005.html
         title: "Několik poznámek autora k\_Myším Natálie Mooshabrové a\_k\_literatuře a\_umění vůbec"
-        hiddenTitle: true
+        hiddenTitle: false
       - link: mysi_natalie_mooshabrove_006.html
         title: Poznámka autora
-        hiddenTitle: true
+        hiddenTitle: false
       - link: mysi_natalie_mooshabrove_007.html
         title: I
         hiddenTitle: false

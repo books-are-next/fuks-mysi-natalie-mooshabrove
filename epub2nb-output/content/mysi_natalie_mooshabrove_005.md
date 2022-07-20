@@ -1,6 +1,5 @@
 ---
 title: "Několik poznámek autora k\_Myším Natálie Mooshabrové a\_k\_literatuře a\_umění vůbec"
-hiddenTitle: true
 contentType: prose
 ---
 
