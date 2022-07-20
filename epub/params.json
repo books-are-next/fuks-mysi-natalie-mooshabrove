@@ -95,9 +95,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": true,
-            "children": [],
-            "title": "Několik poznámek autora k Myším Natálie Mooshabrové a k literatuře a umění vůbec"
+            "hiddenTitle": false,
+            "title": "Několik poznámek autora k Myším Natálie Mooshabrové a k literatuře a umění vůbec",
+            "children": []
           },
           {
             "filename": "mysi_natalie_mooshabrove_006.md",
@@ -108,9 +108,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": true,
-            "children": [],
-            "title": "Poznámka autora"
+            "hiddenTitle": false,
+            "title": "Poznámka autora",
+            "children": []
           },
           {
             "filename": "mysi_natalie_mooshabrove_007.md",
@@ -122,8 +122,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "I"
+            "title": "I",
+            "children": []
           },
           {
             "filename": "mysi_natalie_mooshabrove_008.md",
@@ -135,8 +135,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "II"
+            "title": "II",
+            "children": []
           },
           {
             "filename": "mysi_natalie_mooshabrove_009.md",
@@ -148,8 +148,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "III"
+            "title": "III",
+            "children": []
           },
           {
             "filename": "mysi_natalie_mooshabrove_010.md",
@@ -161,8 +161,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "IV"
+            "title": "IV",
+            "children": []
           },
           {
             "filename": "mysi_natalie_mooshabrove_011.md",
@@ -174,8 +174,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "V"
+            "title": "V",
+            "children": []
           },
           {
             "filename": "mysi_natalie_mooshabrove_012.md",
@@ -187,8 +187,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "VI"
+            "title": "VI",
+            "children": []
           },
           {
             "filename": "mysi_natalie_mooshabrove_013.md",
@@ -200,8 +200,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "VII"
+            "title": "VII",
+            "children": []
           },
           {
             "filename": "mysi_natalie_mooshabrove_014.md",
@@ -213,8 +213,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "VIII"
+            "title": "VIII",
+            "children": []
           },
           {
             "filename": "mysi_natalie_mooshabrove_015.md",
@@ -226,8 +226,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "IX"
+            "title": "IX",
+            "children": []
           },
           {
             "filename": "mysi_natalie_mooshabrove_016.md",
@@ -239,8 +239,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "X"
+            "title": "X",
+            "children": []
           },
           {
             "filename": "mysi_natalie_mooshabrove_017.md",
@@ -252,8 +252,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XI"
+            "title": "XI",
+            "children": []
           },
           {
             "filename": "mysi_natalie_mooshabrove_018.md",
@@ -265,8 +265,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XII"
+            "title": "XII",
+            "children": []
           },
           {
             "filename": "mysi_natalie_mooshabrove_019.md",
@@ -278,8 +278,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XIII"
+            "title": "XIII",
+            "children": []
           },
           {
             "filename": "mysi_natalie_mooshabrove_020.md",
@@ -291,8 +291,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XIV"
+            "title": "XIV",
+            "children": []
           },
           {
             "filename": "mysi_natalie_mooshabrove_021.md",
@@ -304,8 +304,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XV"
+            "title": "XV",
+            "children": []
           },
           {
             "filename": "mysi_natalie_mooshabrove_022.md",
@@ -317,8 +317,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XVI"
+            "title": "XVI",
+            "children": []
           },
           {
             "filename": "mysi_natalie_mooshabrove_023.md",
@@ -330,8 +330,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XVII"
+            "title": "XVII",
+            "children": []
           },
           {
             "filename": "mysi_natalie_mooshabrove_024.md",
@@ -343,8 +343,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XVIII"
+            "title": "XVIII",
+            "children": []
           },
           {
             "filename": "mysi_natalie_mooshabrove_025.md",
@@ -356,8 +356,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XIX"
+            "title": "XIX",
+            "children": []
           },
           {
             "filename": "mysi_natalie_mooshabrove_026.md",
@@ -369,8 +369,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XX"
+            "title": "XX",
+            "children": []
           },
           {
             "filename": "mysi_natalie_mooshabrove_027.md",
@@ -382,8 +382,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "XXI"
+            "title": "XXI",
+            "children": []
           },
           {
             "filename": "mysi_natalie_mooshabrove_028.md",
@@ -645,6 +645,6 @@
       "user": "books-are-next",
       "repo": "fuks-mysi-natalie-mooshabrove"
     },
-    "generatedAt": 1657186934065
+    "generatedAt": 1658178741330
   }
 }
