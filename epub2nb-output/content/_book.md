@@ -43,11 +43,13 @@ tocBase:
   - id: section-1
     children:
       - link: mysi_natalie_mooshabrove_005.html
-        title: "Několik poznámek autora k\_Myším Natálie Mooshabrové a\_k\_literatuře a\_umění vůbec"
+        title: >-
+          Několik poznámek autora k Myším Natálie Mooshabrové a k literatuře a
+          umění vůbec
         hiddenTitle: false
       - link: mysi_natalie_mooshabrove_006.html
         title: Poznámka autora
-        hiddenTitle: false
+        hiddenTitle: true
       - link: mysi_natalie_mooshabrove_007.html
         title: I
         hiddenTitle: false

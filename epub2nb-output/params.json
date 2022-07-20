@@ -96,7 +96,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "title": "Několik poznámek autora k Myším Natálie Mooshabrové a k literatuře a umění vůbec",
+            "title": "Několik poznámek autora k Myším Natálie Mooshabrové a k literatuře a umění vůbec",
             "children": []
           },
           {
@@ -108,7 +108,7 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
+            "hiddenTitle": true,
             "title": "Poznámka autora",
             "children": []
           },
@@ -644,6 +644,6 @@
       "user": "books-are-next",
       "repo": "fuks-mysi-natalie-mooshabrove"
     },
-    "generatedAt": 1658304247387
+    "generatedAt": 1658304666232
   }
 }
