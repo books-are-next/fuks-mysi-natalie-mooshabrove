@@ -10,7 +10,7 @@ meta:
   author: Ladislav Fuks
   publisher: Městská knihovna v Praze
   modified: '2020-01-31T00:00:00.000Z'
-  isbn: 978-80-274-0419-3
+  isbn: 978-80-274-2686-7
   contentType: prose
   publisherShort: mkp
 readingOrder:
