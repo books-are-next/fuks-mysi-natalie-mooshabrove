@@ -7,8 +7,8 @@ Myši Natálie Mooshabrové**
 Redakce Jaroslava Bednářová  
 Vydala Městská knihovna v Praze  
 Mariánské nám. 1, 115 72 Praha 1  
-ISBN 978-80-274-0419-3 (webová kniha)  
-V MKP 2. elektronické vydání z 21. 7. 2022.
+ISBN 978-80-274-2686-7 (webová kniha)  
+V MKP 2. elektronické vydání z 1. 8. 2022.
 
 ***
 
