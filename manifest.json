@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "fuks-mysi-natalie-mooshabrove-4f4c9b2",
-  "revision": "4f4c9b2",
+  "identifier": "fuks-mysi-natalie-mooshabrove-616eb65",
+  "revision": "616eb65",
   "readingOrder": [
     "promo.html",
     "mysi_natalie_mooshabrove_005.html",
@@ -37,8 +37,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:54:34 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665150874704
+    "date": "Mon Oct 10 2022 15:46:48 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416808190
   },
   "documents": [
     {
@@ -517,7 +517,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 137,
-      "chars": 914,
+      "chars": 915,
       "ideas": 16,
       "role": "about",
       "order": null,
@@ -537,7 +537,7 @@
   "totals": {
     "all": {
       "words": 99888,
-      "chars": 579432,
+      "chars": 579433,
       "ideas": 2390
     },
     "chapters": {
